@@ -1,0 +1,39 @@
+Käyttöoikeussopimus
+
+Tämä on käyttäjän (luonnollinen henkilö tai oikeushenkilö) ja BVRP Software S.A:n (BVRP) välinen paikallinen sopimus. Jos et hyväksy tämän sopimuksen ehtoja, palauta levypakkaus ja sen mukana toimitetut tavarat (myös kirjallinen aineisto, kansiot tai muut pakkaukset) ostopaikkaan rahojen palautusta varten.
+
+BVRP SOFTWARE S.A:N OHJELMISTON KÄYTTÖOIKEUSSOPIMUS
+1. KÄYTTÖOIKEUDEN MYÖNTÄMINEN
+Tämä BVRP:n ohjelmiston käyttöoikeussopimus ("Käyttöoikeussopimus") sallii yhden kopion tekemisen edellä nimetystä ohjelmistotuotteen versiosta ("OHJELMISTO") yhteen tietokoneeseen sillä edellytyksellä, että OHJELMISTOA käytetään samanaikaisesti vain yhdessä tietokoneessa.
+Jos käyttäjällä on monta OHJELMISTON Käyttöoikeussopimusta, käyttäjällä saa olla yhtä monta samanaikaista OHJELMISTON kopiota kuin hänellä on Käyttöoikeussopimuksia.
+OHJELMISTO on "käytössä" tietokoneessa, kun se on ladattu tietokoneen tilapäiseen muistiin (eli tietokoneen keskusmuistiin) tai asennettu pysyvään muistiin (esim. kiintolevylle, CD-levylle tai muuhun muistivälineeseen) lukuun ottamatta kopiota, joka on asennettu verkkopalvelimeen ainoastaan toisiin tietokoneisiin jakelua varten ja joka ei ole "käytössä". 
+Jos voidaan olettaa, että OHJELMISTON käyttäjien määrä tulee olemaan suurempi kuin voimassa olevien Käyttöoikeuksien määrä, käyttäjällä on oltava olemassa valmis menettely tai prosessi, joka takaa, että OHJELMISTOA samanaikaisesti käyttävien henkilöiden määrä ei ole suurempi kuin Käyttöoikeussopimusten määrä. 
+Jos OHJELMISTO asennetaan pysyvästi tietokoneen kiintolevylle tai muuhun muistivälineeseen (verkkopalvelinta lukuun ottamatta) ja yksi henkilö käyttää tietokonetta enemmän kuin 80 % käyttöajasta, sama henkilö saa myös käyttää OHJELMISTOA kannettavassa tietokoneessa tai kotitietokoneessa.
+
+2. TEKIJÄNOIKEUS
+BVRP omistaa OHJELMISTON, ja Yhdysvaltojen tekijänoikeuslait sekä kansainväliset sopimukset suojaavat sitä. OHJELMISTOA on siksi kohdeltava kuten muutakin tekijänoikeuslain suojaamaa aineistoa (esim. kirjaa tai äänilevyä) lukuun ottamatta sitä, että käyttäjä saa joko (a) ottaa OHJELMISTOSTA yhden kopion pelkästään varmuuskopio- tai arkistointitarkoituksiin tai (b) siirtää ohjelmiston yhdelle kiintolevylle edellyttäen, että alkuperäinen säilytetään pelkästään varmuuskopio- tai arkistointitarkoituksia varten.
+OHJELMISTON mukana toimitettua kirjallista aineistoa ei saa kopioida.
+
+3. MUUT RAJOITUKSET
+Tämä BVRP:n käyttöoikeussopimus on todistus käyttäjän oikeudesta käyttää sopimuksessa määritettyjä oikeuksiaan, ja käyttäjän on säilytettävä tämä sopimus. Käyttäjä ei saa antaa OHJELMISTOA vuokralle, mutta käyttäjä saa siirtää oikeutensa pysyvästi tämän BVRP-käyttöoikeussopimuksen mukaan edellyttäen, että tämä Käyttöoikeussopimus, OHJELMISTO ja kaikki sen mukana toimitettu kirjallinen aineisto siirretään, käyttäjälle ei jää kopioita ja vastaanottaja suostuu tämän Käyttöoikeussopimuksen ehtoihin.
+OHJELMISTON ohjelmakoodia ei saa analysoida, purkaa tai palauttaa symboliseksi konekieleksi. Jos OHJELMISTO on päivitys, käyttöoikeuden siirtoon täytyy sisältyä päivitys ja kaikki aikaisemmat versiot.
+
+RAJOITETTU TAKUU.
+BVRP takaa, että (a) OHJELMISTO olennaisesti toimii sen mukana toimitetun kirjallisen aineiston mukaan yhdeksänkymmentä (90) päivää ohjelmiston vastaanottohetkestä ja (b) OHJELMISTON mukana toimitetussa laitteistossa ei ole materiaali- tai valmistusvirheistä aiheutuvia vikoja normaalikäytössä ja huollossa yhden (1) vuoden aikana vastaanottohetkestä.
+Kaikki oletetut OHJELMISTOA ja laitteistoa koskevat takuut on rajoitettu yhdeksäänkymmeneen (90) päivään OHJELMISTON osalta ja yhteen (1) vuoteen laitteiston osalta. Eräät valtiot eivät salli oletetun takuun keston rajoittamista, joten edellä mainitut rajoitukset eivät mahdollisesti koske sinua.
+
+KORVAUKSET ASIAKKAALLE.
+BVRP:n vastuu ja käyttäjälle myönnettävä korvaus rajoittuu BVRP:n valinnan mukaan joko (a) maksetun hinnan palautukseen tai (b) sen OHJELMISTON tai laitteiston korjaukseen tai vaihtoon, joka ei täytä BVRP:n rajoitetun takuun ehtoja ja palautetaan BVRP:lle kuitin kopion kanssa.
+Rajoitettu takuu on mitätön, jos OHJELMISTON tai laitteiston vian on aiheuttanut onnettomuus, väärinkäyttö tai virheellinen käyttötapa. OHJELMISTON korvaavan tuotteen takuu on voimassa alkuperäisen takuuajan loppuun asti tai kolmekymmentä (30) päivää, se mukaan kumpi näistä on pidempään voimassa.
+
+EI MUITA TAKUITA.
+BVRP Software ei ota vastuuta mistään muista nimenomaisista tai oletetuista takuista kuten OHJELMISTON, sen mukana toimitetun kirjallisen aineiston ja mukana toimitetun laitteiston kaupallisesta hyödynnettävyydestä ja soveltuvuudesta tiettyyn käyttötarkoitukseen.
+Rajoitettu takuu antaa määritetyt oikeudet käyttäjälle. Käyttäjällä voi myös olla muita oikeuksia valtion oikeuskäytännön mukaan.
+
+EI VASTUUTA VÄLILLISISTÄ VAHINGOISTA.
+BVRP tai jälleenmyyjä ei vastaa mistään vahingoista (kuten esimerkiksi liiketoiminnan tulojen menetyksestä, liiketoiminnan keskeytymisestä, liiketoiminnan tietojen menetyksestä tai muista taloudellisista menetyksistä), jotka aiheutuvat BVRP:n tuotteen käytöstä tai käyttämättömyydestä, vaikka BVRP:tä olisi varoitettu tällaisten vahinkojen mahdollisuudesta.
+Koska eräät valtiot eivät salli välillisten tai satunnaisten vahinkojen korvausvelvollisuuden poissulkemista tai rajoittamista, edellä mainittu rajoitus ei mahdollisesti koske sinua.
+
+YHDYSVALTOJEN RAJOITETUT OIKEUDET.
+RAJOITETUT OIKEUDET ovat voimassa OHJELMISTOLLE ja sen dokumentaatiolle. Yhdysvaltojen viranomaisten suorittamaa käyttöä, kopiointia ja julkistamista koskevat rajoitukset, jotka on määritetty DFARS 252.227-7013:n The Rights in Technical Data and Computer Software -momentin pykälässä (c)(1)(iii) tai 58 CFR 52.227-19:n Commercial Computer Software - Restricted Rights -momentin pykälissä (c)(1) ja (2).
+Valmistaja on BVRP Software S.A. 1bis, rue Collange 92593 Levallois Perret Cedex France.

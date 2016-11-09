@@ -1,0 +1,103 @@
+------------------------------------------------------------------------
+HP Software Licence Agreement
+
+ATTENTION: USE OF THE SOFTWARE IS SUBJECT TO THE HP SOFTWARE LICENSE
+TERMS SET FORTH BELOW. USING THE SOFTWARE INDICATES YOUR ACCEPTANCE OF
+THESE LICENSE TERMS. IF YOU DO NOT ACCEPT THESE LICENSE TERMS, YOU MUST
+RETURN THE SOFTWARE FOR A FULL REFUND. IF THE SOFTWARE IS SUPPLIED WITH
+ANOTHER PRODUCT, YOU MAY RETURN THE ENTIRE UNUSED PRODUCT FOR A FULL
+REFUND.
+
+HP SOFTWARE LICENSE TERMS
+
+The following License Terms govern your use of the accompanying Software
+unless you have a separate written agreement with HP.
+
+License Grant. HP grants you a license to Use one copy of the Software.
+"Use" means storing, loading, installing, executing or displaying the
+Software. You may not modify the Software or disable any licensing or
+control features of the Software. If the Software is licensed for
+"concurrent use", you may not allow more than the maximum number of
+authorized users to Use the Software concurrently.
+
+Ownership. The Software is owned and copyrighted by HP or its third
+party suppliers. Your license confers no title or ownership in the Software and is not a sale of any rights in the Software. HP's third party suppliers may protect their rights in the event of any violation of these License Terms.
+
+Copies and Adaptations. You may only make copies or adaptations of the
+Software for archival purposes or when copying or adaptation is an
+essential step in the authorized Use of the Software. You must reproduce
+all copyright notices in the original Software on all copies or
+adaptations. You may not copy the Software onto any bulletin board or
+similar system.
+
+No Disassembly or Decryption. You may not disassemble or decompile the
+Software unless HP's prior written consent is obtained. In some
+jurisdictions, HP's consent may not be required for disassembly or
+decompilation. Upon request, you will provide HP with reasonably
+detailed information regarding any disassembly or decompilation. You may
+not decrypt the Software unless decryption is a necessary part of the
+operation of the Software.
+
+Transfer. Your license will automatically terminate upon any transfer of
+the Software. Upon transfer, you must deliver the Software, including
+any copies and related documentation, to the transferee. The transferee
+must accept these License Terms as a condition to the transfer.
+
+Termination. HP may terminate your license upon notice for failure to
+comply with any of these License Terms. Upon termination, you must
+immediately destroy the Software, together with all copies, adaptations
+and merged portions in any form.
+
+Export Requirements. You may not export or re-export the Software or any
+copy or adaptation in violation of any applicable laws or regulations.
+
+U.S. Government Restricted Rights. The Software and documentation have
+been developed entirely at private expense and are provided as
+"Commercial Computer Software" or "restricted computer software". They
+are delivered and licensed as "commercial computer software" as defined
+in DFARS 252.227-7013 (Oct 1988), DFARS 252.211-7015 (May 1991) or DFARS
+252.227-7014 (Jun 1995), as a "commercial item" as defined in FAR 2.101
+(a), or as "Restricted computer software" as defined in FAR 52.227-19
+(Jun 1987) (or any equivalent agency regulation or contract clause),
+whichever is applicable. You have only those rights provided for such
+Software and Documentation by the applicable FAR or DFARS clause or the
+HP standard software agreement for the product.
+
+HEWLETT-PACKARD LIMITED WARRANTY STATEMENT
+1. HP warrants to you, the end-user customer, that HP hardware,
+accessories and supplies, will be free from defects in materials and
+workmanship after the date of purchase, for the period specified above.
+If HP receives notice of such defects during the warranty period, HP
+will, at its option, either repair or replace products which prove to be
+defective.
+2. HP warrants to you that HP software will not fail to execute its
+programming instructions after the date of purchase, for the period
+specified above, due to defects in material and workmanship when
+properly installed and used. If HP receives notice of such defects
+during the warranty period, HP will replace software media which does
+not execute its programming instructions due to such defects.
+3. HP does not warrant that the operation of HP products will be
+uninterrupted or error free. HP products may contain remanufactured
+parts equivalent to new in performance or may have been subject to
+incidental use. If HP is unable, within a reasonable time, to repair or
+replace any product to a condition as warranted, you will be entitled to
+a refund of the purchase price upon prompt return of the product.
+4. Warranty does not apply to defects resulting from (a) improper or
+inadequate maintenance or calibration, (b) software, interfacing, parts
+or supplies not supplied by HP, (c) unauthorized specifications for the
+product, or (e) improper site preparation or maintenance.
+
+5. ANY IMPLIED WARRANTY OF MERCHANTABILITY OR FITNESS FOR A PARTICULAR
+PURPOSE IS LIMITED TO THE DURATION OF THE EXPRESS WARRANTY SET FORTH
+ABOVE. Some states or provinces do not allow limitations on the duration
+of an implied warranty, so the above limitation or exclusion might not
+apply to you. This warranty gives you specific legal rights and you
+might also have other rights that vary from state to state, or province
+to province.
+6. THE REMEDIES IN THIS WARRANTY STATEMENT ARE YOUR SOLE AND EXCLUSIVE
+REMEDIES. EXCEPT AS INDICATED ABOVE, IN NO EVENT WILL HP BE LIABLE FOR
+LOSS OF DATA OR FOR DIRECT, SPECIAL, INCIDENTAL, CONSEQUENTIAL
+(INCLUDING LOST PROFIT), OR OTHER DAMAGE, WHETHER BASED IN CONTRACT,
+TORT, OR OTHERWISE. Some states or provinces do not allow the exclusion
+or limitation of incidental or consequential damages, so the above
+limitation or exclusion may not apply to you.

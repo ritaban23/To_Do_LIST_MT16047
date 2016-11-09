@@ -1,0 +1,39 @@
+Licence
+
+Toto je ujednání mezi vámi (fyzickou osobou nebo subjektem), koneènım uivatelem, a spoleèností BVRP Software S.A. (BVRP). Jestlie nesouhlasíte s podmínkami této smlouvy, neprodlenì vrate balíèek s diskem a doprovodnımi materiály (vèetnì tištìnıch materiálù, poøadaèù nebo jinıch obalù) na místo, kde jste jej získali. Peníze vám budou vráceny v plné vıši.
+
+LICENCE TİKAJÍCÍ SE SOFTWARU SPOLEÈNOSTI BVRP SOFTWARE S.A.
+1. UDÌLENÍ LICENCE
+Tato licenèní smlouva tıkající se softwaru spoleènosti BVRP ("Licence") vám dovoluje pouívat jednu kopii urèené verze vıše uvedeného softwaru ("SOFTWARE") na jakémkoliv poèítaèi za pøedpokladu, e SOFTWARE je v kterékoliv chvíli pouíván pouze na jednom poèítaèi.
+Jestlie vlastníte více licencí k SOFTWARU, mùete v kterékoliv chvíli pouívat tolik kopií SOFTWARU, kolik Licencí vlastníte.
+SOFTWARE je na poèítaèi "pouíván", jestlie je zaveden do doèasné pamìti (tj. do pamìti RAM) nebo je instalován v trvalé pamìti (napøíklad na pevném disku, na disku CD-ROM nebo na jiném zaøízení pro uloení dat) daného poèítaèe. Kopie instalovaná na síovém serveru vıhradnì pro úèel poskytování ostatním poèítaèùm však "není pouívána".
+Jestlie pøedpokládanı poèet uivatelù SOFTWARU pøekraèuje poèet pouitelnıch Licencí, musíte na místì vytvoøit dostateènı mechanismus nebo postup, jím zajistíte, e poèet osob, které pouívají SOFTWARE souèasnì, nepøekroèí poèet Licencí. 
+Jestlie je SOFTWARE trvale instalován na pevném disku poèítaèe nebo na jiném zaøízení poèítaèe (jiného ne síového serveru), které se pouívá pro uloení dat, a tento poèítaè po více ne 80 % doby, po kterou je pouíván, pouívá pouze jedna osoba, mùe tato osoba pouít SOFTWARE na pøenosném nebo domácím poèítaèi.
+
+2. AUTORSKÁ PRÁVA
+SOFTWARE je vlastnictvím spoleènosti BVRP a je chránìn zákony Spojenıch státù o autorskıch právech a ustanoveními mezinárodních dohod. Musíte tedy se SOFTWAREM jednat jako s jakımkoliv jinım materiálem chránìnım autorskımi právy (jako napøíklad s knihou nebo s hudební nahrávkou). Mùete však buïto (a) vytvoøit kopii SOFTWARU vıhradnì pro úèely zálohování nebo archivování, nebo (b) pøenést SOFTWARE na jeden pevnı disk za pøedpokladu, e originál udrujete vıhradnì pro úèely zálohování nebo pro archivování.
+Nesmíte vytváøet kopie doprovodnıch tištìnıch materiálù k SOFTWARU.
+
+3. DALŠÍ OMEZENÍ
+Tato Licenèní smlouva spoleènosti BVRP je vaším dokladem o licenci, slouí k uplatnìní práv v ní udìlenıch a musíte si ji ponechat. SOFTWARE nesmíte pùjèit nebo pronajmout, ale mùete trvale pøevést práva vyplıvající z této Licenèní smlouvy za pøedpokladu, e jste pøevedli tuto Licenèní smlouvu, SOFTWARE a ostatní doprovodnı tištìnı materiál, e jste si neponechali ádnou kopii, a dále za pøedpokladu, e pøíjemce souhlasí s podmínkami této smlouvy.
+Nesmíte provádìt ádné zpìtné inenırství SOFTWARU, nesmíte SOFTWARE zpìtnì pøekládat nebo analyzovat pouité algoritmy. Jestlie se jedná o aktualizaci SOFTWARU, musí kadı pøenos zahrnovat aktualizaci a všechny døívìjší verze.
+
+OMEZENÁ ZÁRUKA
+Spoleènost BVRP zaruèuje, e (a) SOFTWARE bude plnì fungovat podle doprovodnıch tištìnıch materiálù po dobu devadesáti (90) dnù od data obdrení a e (b) jakıkoliv hardware pøiloenı k SOFTWARU bude za normálního pouívání a obsluhy bez vad na materiálu a zpracování po dobu jednoho (1) roku od data obdrení.
+Jakékoliv pøedpokládané záruky jsou omezeny na devadesát (90) dnù pro SOFTWARE a na jeden (1) rok pro hardware. Nìkteré státy nedovolují omezit trvání jakékoliv pøedpokládané záruky, je tedy moné, e se na vás vıše uvedená omezení nebudou vztahovat.
+
+OPRAVNÉ PROSTØEDKY ZÁKAZNÍKA
+Veškerá odpovìdnost spoleènosti BVRP a veškeré vaše vıhradní opravné prostøedky závisí na úvaze spoleènosti BVRP a jsou tyto: (a) vrácení zaplacené ceny nebo (b) oprava nebo vımìna SOFTWARU nebo hardwaru, kterı nesplòuje podmínky Omezené záruky spoleènosti BVRP a je vrácen spoleènosti BVRP s kopií dokladu o koupi.
+Tato omezená záruka neplatí pro závady na SOFTWARU nebo na hardwaru v dùsledku nehody, hrubého zacházení nebo nesprávného pouití. Na jakıkoliv vymìnìnı SOFTWARE je poskytována záruka po zbytek pùvodní záruèní doby, nebo po dobu tøiceti (30) dnù, podle toho, co trvá déle.
+
+ÁDNÉ DALŠÍ ZÁRUKY
+Pokud se tıèe SOFTWARU, doprovodnıch tištìnıch materiálù a jakéhokoliv pøiloeného hardwaru, odmítá spoleènost BVRP Software všechny další záruky, vyjádøené nebo pøedpokládané, vèetnì, avšak nikoliv pouze, pøedpokládanıch záruk prodejnosti a vhodnosti k urèitému úèelu.
+Tato omezená záruka vám dává urèitá zákonná práva. Mùete mít další práva, která se v rùznıch státech liší.
+
+ÁDNÁ ODPOVÌDNOST ZA NÁSLEDNÉ ŠKODY
+Spoleènost BVRP nebo její dodavatelé nebudou v ádném pøípadì odpovìdni za jakékoliv škody (vèetnì, bez omezení, ušlého zisku, pøerušení práce, ztráty obchodních informací nebo jinıch finanèních ztrát) vyplıvající z pouití tohoto vırobku nebo z nezpùsobilosti pouít tento vırobek spoleènosti BVRP i pøesto, e spoleènost BVRP byla na monost takovıch škod upozornìna.
+Vzhledem k tomu, e nìkteré státy nedovolují vıjimky z následnıch nebo náhodnıch škod nebo nedovolují jejich omezení, nemusí se vıše uvedená omezení na vás vztahovat.
+
+OMEZENÁ PRÁVA PRO VLÁDU SPOJENİCH STÁTÙ
+SOFTWARE a dokumentace jsou poskytovány s OMEZENİMI PRÁVY. Pouití, duplikace nebo zveøejnìní vládou Spojenıch státù podléhá omezením, která jsou uvedena v odstavci (c)(1)(ii) klauzule 252.227-7013 The Rights in Technical Data and Computer Software v naøízení DFARS nebo v odstavcích (c)(1) a (2) sekce 52.227-19 Commercial Computer Software - Restricted Rights ve sbírce 48 CFR.
+Vırobcem je spoleènost BVRP Software S.A. 1bis, rue Collange 92593 Levallois Perret Cedex Francie.

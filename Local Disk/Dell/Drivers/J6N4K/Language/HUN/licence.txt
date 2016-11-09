@@ -1,0 +1,39 @@
+Licenc
+
+Ez a licenc helyi szerzodés a végfelhasználó (természetes vagy jogi személy) és a BVRP Software S.A. (BVRP) között. Ha nem fogadja el a szerzodés feltételeit, a teljes vételár visszatérítése érdekében haladék nélkül juttassa vissza a lemezcsomagot és a hozzá tartozó kiegészítoket, beleértve az írásos anyagokat és csomagolóanyagokat is a vásárlás helyére.
+
+BVRP SOFTWARE S.A. SZOFTVERLICENC
+1.LICENCÁTRUHÁZÁS.
+A jelen BVRP szoftverlicenc-szerzodés (továbbiakban "Licenc") lehetové teszi a fent meghatározott, megadott verziójú szoftvertermék ("SZOFTVER") egy példányának használatát egyetlen számítógépen, amennyiben a SZOFTVER egyszerre csak egy számítógépen van használatban.
+Amennyiben a SZOFTVERHEZ több licenccel rendelkezik, akkor egyszerre annyi SZOFTVER lehet használatban, ahány licenccel rendelkezik.
+A SZOFTVER akkor "van használatban" a számítógépen, amikor be van töltve az adott számítógép ideiglenes memóriájába (RAM), vagy telepítve van annak állandó memóriájába (merevlemezen, CD-ROM-on vagy egyéb tárolóeszközön). A hálózati kiszolgálóra kizárólag más számítógépeken való terjesztés céljából telepített példány nem minosül "használatnak".
+Amennyiben a SZOFTVER felhasználóinak várható száma meghaladja a megfelelo Licencek számát, akkor valamilyen ésszeru eljárással biztosítani kell, hogy a SZOFTVERT egyidejuleg használók száma ne haladja meg a Licencek számát. 
+Amennyiben a SZOFTVER telepítve van a számítógép (kivéve a hálózati kiszolgáló) merevlemezére vagy egyéb tárolóeszközre, és az adott számítógépet a használati ido legalább 80%-ában ugyanaz a felhasználó használja, akkor az a személy hordozható vagy otthoni számítógépen is használhatja a SZOFTVERT.
+
+2.SZERZOI JOGOK.
+A SZOFTVER a BVRP tulajdona, és az Amerikai Egyesült Államok szerzoi jogra vonatkozó törvényeinek és a nemzetközi egyezmények rendelkezéseinek hatálya alá esik. Ezért a SZOFTVERT a szerzoi jog által védett egyéb anyagokhoz, például a könyvekhez vagy zenei felvételekhez hasonlóan kell kezelni a következo különbségekkel: (a) a SZOFTVERROL biztonsági mentés vagy archiválás céljából egy másolat készítheto, vagy (b) a SZOFTVERT átviheti más merevlemezre, amennyiben az eredeti példány kizárólag biztonsági mentésre vagy archiválásra szolgál.
+A SZOFTVERHEZ tartozó írásos kiegészíto anyagok nem másolhatók.
+
+3.EGYÉB KORLÁTOZÁSOK.
+A jelen BVRP Licencszerzodés az itt átruházott jogok gyakorlását engedélyezo licenc bizonyító okirata, és meg kell orizni. A SZOFTVERT nem kölcsönözheti vagy adhatja bérbe, de a jelen BVRP Licencszerzodésben foglalt jogokat véglegesen átadhatja, amennyiben átadja a jelen Licencszerzodést, a SZOFTVERT és az összes hozzá tartozó írásos kiegészíto anyagot, nem tart meg példányokat, és az átvevo elfogadja a jelen Szerzodés feltételeit.
+A SZOFTVEREN nem végezheto visszafejtés vagy visszafordítás. Ha a SZOFTVER frissítés, az átadás magában foglalja a frissítést és az összes korábbi verziót is.
+
+KORLÁTOZOTT GARANCIA.
+A BVRP garanciát vállal arra, hogy (a) a SZOFTVER muködése lényegében megfelel az írásos kiegészíto anyagoknak a vásárlást igazoló nyugta dátumától számított kilencven (90) napig; és (b) a SZOFTVERHEZ tartozó hardver rendeltetésszeru használat mellett mentes a gyártási és anyaghibáktól, és a vásárlást igazoló nyugta dátumától számított egy (1) évig használható.
+A SZOFTVERRE és a hardverre vonatkozó járulékos garancia idotartama kilencven (90) nap, illetve egy (1) év. Egyes államok azonban nem teszik lehetové a járulékos garancia idotartamának korlátozását; ebben az esetben a fenti korlátozások nem érvényesek.
+
+VÁSÁRLÓI JOGORVOSLAT.
+A BVRP felelossége és a vásárlói jogorvoslat a következo lehetoségekre korlátozódik a BVRP választása szerint: (a) a kifizetett vételár visszatérítése vagy (b) a BVRP korlátozott garanciájának nem megfelelo és a BVRP vállalathoz a vásárlást igazoló nyugta másolatával együtt visszajuttatott SZOFTVER vagy hardver cseréje.
+Ez a korlátozott garancia érvénytelen, amennyiben a SZOFTVER vagy hardver hibája balesetbol vagy nem rendeltetésszeru használatból ered. A csereként átadott SZOFTVERRE vonatkozó garancia idotartama az eredeti garancia idotartamából hátralévo ido vagy harminc (30) nap, a ketto közül a hosszabb idotartam.
+
+EGYÉB GARANCIÁK KIZÁRÁSA.
+A BVRP Software nem ismer el semmilyen egyéb, kifejezett vagy járulékos garanciát, így az értékesíthetoségre vagy egy adott célra való felhasználhatóságra vonatkozó járulékos garanciát a SZOFTVERRE, az írásos kiegészíto anyagokra vagy a hozzá tartozó hardverre vonatkozóan.
+Ez a korlátozott garancia meghatározott jogokat biztosít. Az adott állam szerint más jogokkal is rendelkezhet.
+
+SZÁRMAZÉKOS KÁROKRA VONATKOZÓ FELELOSSÉG KIZÁRÁSA.
+A BVRP vagy szállítói semmilyen esetben nem tehetok felelossé a BVRP ezen termékének használatából vagy használatának sikertelenségébol eredo bármilyen kárért, többek között az üzleti haszon elmaradásáért, az üzletmenet megszakadásáért, üzleti információ elvesztéséért vagy egyéb anyagi veszteségért, még akkor sem, ha a BVRP értesült ezen károk eshetoségérol.
+Mivel egyes államok nem teszik lehetové a véletlenszeru, származékos károk kizárását vagy korlátozását, ebben az esetben a fenti korlátozások nem érvényesek.
+
+AZ EGYESÜLT ÁLLAMOK KORMÁNYÁNAK KORLÁTOZOTT JOGAI.
+A SZOFTVERT és a dokumentációt KORLÁTOZOTT JOGOK mellett biztosítjuk. A kormány általi használatra és sokszorosításra a DFARS 252.227-7013 "Rights in Technical Data and Computer Software" címu pontjának (c)(1)(ii) albekezdésében vagy a 48 CFR 52.227-19 "Commercial Computer Software -Restricted Rights" címu pontjának (c)(1) és (2) albekezdésében leírt korlátozások vonatkoznak.
+A gyártó: BVRP Software S.A. 1bis, rue Collange 92593 Levallois Perret Cedex France.

@@ -1,0 +1,22 @@
+Licence d'utilisation
+
+Ce document constitue une convention entre le licencié (vous), et la société BVRP Software. BVRP Software fournit ce logiciel et en confère la licence d’utilisation. Vous conservez la responsabilité du choix du logiciel conforme aux résultats recherchés, de même que de l’installation, de l’usage et des résultats obtenus du logiciel.
+BVRP Software ne vend aucun des droits du logiciel, sauf stipulation expresse dans la présente convention, et réserve tout droit qui n’aurait pas été expressément octroyé au licencié.
+
+LICENCE
+Dans le cas d’un logiciel mono-utilisateur, BVRP Software octroie au licencié un droit non exclusif et non cessible d’implanter, d’utiliser et d’afficher le logiciel sur un ordinateur unique. Le licencié pourra faire une copie du logiciel sous une forme lisible sur ordinateur ou imprimée quelconque, à des fins de sauvegarde. L’avis de droit d’auteur (copyright) devra être reproduit et inséré sur toute copie du logiciel.
+Toute décompilation ou désassemblage, intégral ou partiel, par le licencié, est formellement interdit.
+
+EXPIRATION
+La licence est en vigueur jusqu’à sa résiliation. Le licencié pourra la résilier à tout moment en détruisant le logiciel et ses copies. Elle sera également résiliée en cas de non respect par le licencié de l’un des termes ou conditions de la présente convention. Le licencié accepte de détruire le programme et ses copies en cas de résiliation.
+
+GARANTIES LIMITEES
+Le logiciel est fourni en l’état sans garantie de quelque sorte que ce soit, expresse ou implicite, y compris, sans toutefois que cette limitation soit exhaustive, les garanties implicites pour la commercialisation ou l’aptitude à un usage particulier. Tous les risques afférents aux qualités et performances du programme sont supportés par le licencié.
+En cas de défaut du programme, le licencié (et non BVRP Software ou un intermédiaire autorisé pour micro-ordinateurs) assumera l’ensemble des frais nécessaires au dépannage, la réparation ou la correction. BVRP Software ne garantit pas que les fonctions contenues dans les programmes correspondront aux exigences du licencié ou que le fonctionnement du programme ne sera pas sujet à interruption ou erreur.
+Toutefois, BVRP Software garantit que les disquettes sur lesquelles le programme est fourni sont exemptes de défauts de matériel et d’assemblage pendant une période de trente (30) jours à compter de la date de livraison au licencié telle qu’établie par la copie de votre bon de réception.
+La seule responsabilité de BVRP Software et le seul remède dû au licencié sera: 1. Le remplacement de toute disquette ne correspondant pas à la garantie limitée de BVRP Software et qui aura été retournée à BVRP Software ou à un intermédiaire autorisé pour micro-ordinateur BVRP Software, avec une copie du reçu du licencié ou 2. si BVRP Software ou un intermédiaire BVRP Software autorisé se trouve hors d’état de fournir une disquette qui soit exempte de défauts dans le matériel et l’assemblage, le licencié pourra résilier cette convention en retournant le programme et le licencié sera remboursé.
+En aucun cas BVRP Software ne sera responsable vis-à-vis du licencié pour quelque dommage que ce soit, y compris les pertes de profits ou d’économies ou les dommages incidents ou indirects découlant de l’utilisation ou de l’impossibilité d’utilisation du programme, même si BVRP Software ou un intermédiaire BVRP Software autorisé a été informé de la possibilité de tels dommages, ou de quelque réclamation que ce soit pour tout autre tiers.
+
+DISPOSITIONS GENERALES
+Vous certifiez que vous avez lu la présente convention, l’avez comprise et acceptez d’en être lié par les termes et conditions.
+Vous reconnaissez également qu’elle constitue l’état intégral et exclusif de notre accord, remplaçant toute proposition ou accord antérieur, oral ou écrit, et toute autre communication entre nous afférente à l’objet de la présente convention.

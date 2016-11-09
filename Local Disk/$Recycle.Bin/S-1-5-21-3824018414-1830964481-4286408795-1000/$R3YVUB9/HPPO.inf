@@ -1,0 +1,136 @@
+[Version]
+Signature      = "$Chicago$"
+Provider       = %Provider%
+Class          = Printer
+ClassGUID      = {4D36E979-E325-11CE-BFC1-08002BE10318}
+CatalogFile.NT = HPPOU.cat
+DriverVer      = 04/10/2003, 1.00.1913.0
+
+[Manufacturer]
+"HP"
+
+[HP]
+%Printer01%=INSTALL_ROOT,USBPRINT\Hewlett-Packardhp_coCA3D,Hewlett-Packardhp_coCA3D
+
+[INSTALL_ROOT]
+CopyFiles   = HPPOS_DRIVER,HPPOS_LANGMON,MONITOR,VENDOR_SETUP
+DataSection = HPPOS_DATA
+PortMonitor = USBMON,USBMON.DLL
+
+[INSTALL_ROOT.NT]
+CopyFiles   = HPPOU_DRIVER,HPPOU_LANGMON,VENDOR_SETUP
+DataSection = HPPOU_DATA
+DataFile    = HPPOU.gpd
+Include     = NTPRINT.INF
+Needs       = UNIDRV.OEM
+
+[INSTALL_ROOT.NT.CoInstallers]
+AddReg      = CoLaunchInstall.AddReg
+CopyFiles   = VENDOR_SETUP
+
+[CoLaunchInstall.AddReg]
+HKR,,CoInstallers32,0x10000,"HPBVNSTP.DLL,CoSetup"
+
+[HPPOS_DATA]
+DriverFile      = HPPOSK.drv
+DataFile        = HPPOS.dat
+HelpFile        = HPPOS.hlp
+DefaultDataType = RAW
+LanguageMonitor = "HP Color LaserJet Monitor,HPPOSMON.dll"
+VendorSetup     = "HPBVNSTP.dll,HPVendorSetup"
+
+[HPPOU_DATA]
+DriverFile      = UNIDRV.dll
+ConfigFile      = UNIDRVUI.dll
+HelpFile        = HPPOU.hlp
+LanguageMonitor = "HP Color LaserJet Monitor,HPPOUMON.dll"
+
+[HPPOU_DRIVER]
+HPPOU.ini,HPPOU.ini,,0x00000020
+HPPOU.hlp,HPPOU.hl_,,0x00000020
+HPPOU.odf,HPPOU.od_,,0x00000020
+HPPOU.gpd,HPPOU.gp_,,0x00000020
+HPPOUCMS.gpd,HPPOUCMS.gp_,,0x00000020
+HPPOURTI.gpd,HPPOURTI.gp_,,0x00000020
+HPPOUUIP.dll,HPPOUUIP.dl_,,0x00000020
+HPPOURES.dll,HPPOURES.dl_,,0x00000020
+HPPOURDP.dll,HPPOURDP.dl_,,0x00000020
+HPPOUMDN.exe,HPPOUMDN.ex_,,0x00000020
+
+[HPPOU_LANGMON]
+HPPOUMON.dll,HPPOUMON.dl_,,0x00000020
+
+[HPPOU_LANGMON_DRVCOPY]
+HPPOUMON.dll,HPPOUMON.dl_,,0x00000020
+
+[HPPOS_DRIVER]
+HPPOS.dat,HPPOS.da_
+HPPOS.hlp,HPPOS.hl_
+HPPOSK.drv,HPPOSK.dr_
+HPPOSL.dll,HPPOSL.dl_
+HPPOSM.dll,HPPOSM.dl_
+HPPOSC.dll,HPPOSC.dl_
+HPPOSP.dll,HPPOSP.dl_
+HPPOSU.dll,HPPOSU.dl_
+HPPOSG.dll,HPPOSG.dl_
+HPPOSS.dll,HPPOSS.dl_
+HPPOSI.dll,HPPOSI.dl_
+HPPOSRDP.dll,HPPOSRDP.dl_
+HPPOST32.dll,HPPOST32.dl_
+
+[HPPOS_LANGMON]
+HPPOSMON.dll,HPPOSMON.dll
+
+[MONITOR]
+USBMON.DLL,,,16
+
+[VENDOR_SETUP]
+HPBVNSTP.dll
+HPBVNSTP.dat
+
+[DestinationDirs]
+DefaultDestDir        = 11
+HPPOU_DRIVER          = 66000
+HPPOU_LANGMON         = 66002
+HPPOU_LANGMON_DRVCOPY = 66000
+
+[SourceDisksNames]
+1 = %InstMedia%,,,""
+
+[SourceDisksFiles]
+HPPOU.ini    = 1
+HPPOU.hl_    = 1
+HPPOU.od_    = 1
+HPPOU.gp_    = 1
+HPPOUCMS.gp_ = 1
+HPPOURTI.gp_ = 1
+HPPOUUIP.dl_ = 1
+HPPOURES.dl_ = 1
+HPPOURDP.dl_ = 1
+HPPOUMDN.ex_ = 1
+HPPOUMON.dl_ = 1
+HPPOS.da_    = 1
+HPPOS.hl_    = 1
+HPPOSK.dr_   = 1
+HPPOSL.dl_   = 1
+HPPOSM.dl_   = 1
+HPPOSC.dl_   = 1
+HPPOSP.dl_   = 1
+HPPOSU.dl_   = 1
+HPPOSG.dl_   = 1
+HPPOSS.dl_   = 1
+HPPOSI.dl_   = 1
+HPPOSRDP.dl_ = 1
+HPPOST32.dl_ = 1
+HPPOUMON.dll = 1
+HPPOSMON.dll = 1
+USBMON.DLL   = 1
+HPBVNSTP.dll = 1
+HPBVNSTP.dat = 1
+
+[Strings]
+Printer01   = "HP Color LaserJet 1500"
+InstMedia   = "HP Color LaserJet 1500 Driver for MS Windows - Installation Media"
+Provider    = "HP"
+
+

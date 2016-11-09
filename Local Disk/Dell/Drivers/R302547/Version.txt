@@ -1,0 +1,8 @@
+Title: Serial ATA: Intel Rapid Storage Technology Driver
+Version    : A00
+OEM name   : Intel
+OEM Version: 10.1.2.1004
+Computers  : inspiron: N4050, N5040, N5050; Vostro Notebook: 1450, 1540, 1550
+OSes       : Windows 7 32-bit Home Basic,Windows 7 32-bit Professional,Windows 7 32-bit Starter,Windows 7 64-bit Home Basic,Windows 7 64-bit Home Premium,Windows 7 64-bit Professional,Windows Vista 32-bit Home Basic
+Languages  : Arabic, Brazilian Portuguese, Croatian, Chinese-S, Chinese-T, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Romanian, Russian, Swedish, Slovenian, Spanish, Slovakian, Thai, Turkish, English (UK)
+Created    : Wednesday, August 03, 2011

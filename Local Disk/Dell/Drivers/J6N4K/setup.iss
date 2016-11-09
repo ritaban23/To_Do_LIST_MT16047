@@ -1,0 +1,27 @@
+[InstallShield Silent]
+Version=v7.00
+File=Response File
+[File Transfer]
+OverwrittenReadOnly=NoToAll
+[{3F92ABBB-6BBF-11D5-B229-002078017FBF}-DlgOrder]
+Dlg0={3F92ABBB-6BBF-11D5-B229-002078017FBF}-SdWelcome-0
+Count=4
+Dlg1={3F92ABBB-6BBF-11D5-B229-002078017FBF}-SdLicense-0
+Dlg2={3F92ABBB-6BBF-11D5-B229-002078017FBF}-SdSelectFolder-0
+Dlg3={3F92ABBB-6BBF-11D5-B229-002078017FBF}-SdFinish-0
+[{3F92ABBB-6BBF-11D5-B229-002078017FBF}-SdWelcome-0]
+Result=1
+[{3F92ABBB-6BBF-11D5-B229-002078017FBF}-SdLicense-0]
+Result=1
+[{3F92ABBB-6BBF-11D5-B229-002078017FBF}-SdSelectFolder-0]
+szFolder=NetWaiting
+Result=1
+[Application]
+Name=NetWaiting
+Version=2.5.59
+Company=BVRP Software, Inc
+Lang=0009
+[{3F92ABBB-6BBF-11D5-B229-002078017FBF}-SdFinish-0]
+Result=1
+bOpt1=0
+bOpt2=0

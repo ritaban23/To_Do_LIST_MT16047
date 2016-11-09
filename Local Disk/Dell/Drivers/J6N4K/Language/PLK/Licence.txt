@@ -1,0 +1,39 @@
+Licencja
+
+Jest to umowa lokalna pomiêdzy u¿ytkownikiem koñcowym (osob¹ fizyczn¹ lub prawn¹) a firm¹ BVRP Software S.A. (BVRP). Je¿eli u¿ytkownik nie zgadza siê na warunki niniejszej umowy, powinien niezw³ocznie zwróciæ pakiet z dyskami oraz elementy towarzysz¹ce (w tym materia³y drukowane oraz segregatory lub innego rodzaju opakowania) do miejsca ich zakupu, w celu ca³kowitego zwrotu kosztów.
+
+LICENCJA NA OPROGRAMOWANIE FIRMY BVRP SOFTWARE S.A.
+1.WARUNKI LICENCJI.
+Niniejsza Umowa Licencyjna ("Licencja") firmy BVRP Software zezwala na u¿ytkowanie jednej kopii wyszczególnionej wersji wy¿ej wymienionego oprogramowania ("OPROGRAMOWANIE") na dowolnym pojedynczym komputerze, pod warunkiem, ¿e OPROGRAMOWANIE jest u¿ytkowane wy³¹cznie na jednym komputerze w danym momencie.
+W przypadku posiadania wielu Licencji na OPROGRAMOWANIE mo¿liwe jest u¿ytkowanie w danym momencie tylu kopii OPROGRAMOWANIA, ile posiada siê Licencji.
+OPROGRAMOWANIE jest "u¿ytkowane" na komputerze wtedy, kiedy jest ono za³adowane do pamiêci operacyjnej (tzn. RAM) lub zainstalowane w pamiêci trwa³ej (np. na dysku twardym, dysku CD ROM lub innym urz¹dzeniu do przechowywania danych) tego komputera. Wyj¹tkiem jest kopia zainstalowana na serwerze sieciowym wy³¹cznie w celu przeniesienia na inne komputery, która nie jest traktowana jako "u¿ytkowana".
+Je¿eli przewidywana liczba u¿ytkowników OPROGRAMOWANIA przekracza liczbê Licencji na OPROGRAMOWANIE, konieczne jest opracowanie efektywnej procedury zapewniaj¹cej, ¿e liczba osób jednoczeœnie u¿ywaj¹cych OPROGRAMOWANIA nie przekracza liczby Licencji.
+Je¿eli OPROGRAMOWANIE jest trwale zainstalowane na dysku twardym lub innym urz¹dzeniu do przechowywania danych komputera (nie bêd¹cego serwerem sieciowym) i jedna osoba u¿ywa tego komputera przez ponad 80% czasu jego u¿ytkowania, taka osoba jest uprawniona do u¿ytkowania OPROGRAMOWANIA tak¿e na komputerze przenoœnym lub domowym.
+
+2.PRAWA AUTORSKIE.
+OPROGRAMOWANIE jest w³asnoœci¹ firmy BVRP i jest chronione przez regulacje prawne Stanów Zjednoczonych dotycz¹ce praw autorskich i postanowienia miêdzynarodowych traktatów. Dlatego te¿ wymagane jest traktowanie OPROGRAMOWANIA tak samo, jak wszystkich innych materia³ów objêtych prawami autorskimi (np. ksi¹¿ek i nagrañ muzycznych) z wyj¹tkiem mo¿liwoœci (a) wykonania jednej kopii OPROGRAMOWANIA, s³u¿¹cej wy³¹cznie jako kopia zapasowa lub archiwum lub (b) przeniesienia OPROGRAMOWANIA na pojedynczy dysk twardy, pod warunkiem, ¿e orygina³ bêdzie s³u¿y³ wy³¹cznie jako kopia lub archiwum.
+Zabronione jest wykonywanie kopii materia³ów drukowanych towarzysz¹cych OPROGRAMOWANIU.
+
+3.INNE OGRANICZENIA.
+Niniejsza Umowa Licencyjna firmy BVRP jest dowodem na posiadanie licencji, stanowi¹cym podstawê do egzekwowania zagwarantowanych przez ni¹ praw i musi zostaæ przez u¿ytkownika zachowana. Zabronione jest wynajmowanie i dzier¿awa OPROGRAMOWANIA, ale mo¿liwie jest trwa³e przeniesienie praw w ramach niniejszej Umowy Licencyjnej firmy BVRP, pod warunkiem, ¿e u¿ytkownik przenosi niniejsz¹ Umowê Licencyjn¹, OPROGRAMOWANIE i wszystkie towarzysz¹ce materia³y drukowane, nie pozostawiaj¹c sobie ¿adnych kopii, natomiast otrzymuj¹cy zgadza siê na warunki niniejszej Umowy.
+Zabroniona jest odtwarzanie, dekompilacja i deasemblacja OPROGRAMOWANIA. Je¿eli OPROGRAMOWANIE jest aktualizacj¹, ka¿de przeniesienie musi dotyczyæ aktualizacji i wszystkich wczeœniejszych wersji.
+
+OGRANICZONA GWARANCJA.
+BVRP gwarantuje, ¿e (a) OPROGRAMOWANIE bêdzie istotnie zgodne z towarzysz¹cymi materia³ami drukowanymi przez okres dziewiêædziesiêciu (90) dni od daty odbioru oraz (b) ¿e ka¿de urz¹dzenie towarzysz¹ce OPROGRAMOWANIU bêdzie wolne od usterek materia³owych i wynikaj¹cych z nieprawid³owego wykonania, w warunkach normalnego u¿ytkowania i obs³ugi przez okres jednego (1) roku od daty odbioru.
+Wszystkie rêkojmie dorozumiane dotycz¹ce OPROGRAMOWANIA i sprzêtu s¹ ograniczone odpowiednio do dziewiêædziesiêciu (90) dni i jednego (1) roku. Prawo niektórych pañstw nie zezwala na ograniczenia czasu trwania rêkojmi dorozumianej, tak wiêc powy¿sze ograniczenia mog¹ nie mieæ zastosowania do u¿ytkownika.
+
+UPRAWNIENIA KLIENTA.
+Jedyny wynikaj¹cy z przepisów prawa obowi¹zek firmy BVRP i wy³¹czne uprawnienia klienta polegaj¹ na (a) zwrocie uiszczonej ceny lub (b) naprawie lub wymianie OPROGRAMOWANIA lub sprzêtu który nie bêdzie odpowiada³ warunkom Ograniczonej Gwarancji firmy BVRP i który zostanie zwrócony firmie BVRP razem z kopi¹ pokwitowania. Wybór opcji nale¿y do firmy BVRP.
+Niniejsza Ograniczona Gwarancja jest niewa¿na, je¿eli awaria OPROGRAMOWANIA lub sprzêtu by³a wynikiem wypadku, nadu¿ycia lub niew³aœciwego zastosowania. Na ka¿dy egzemplarz OPROGRAMOWANIA zastêpczego zostanie udzielona gwarancja na pozosta³¹ czêœæ pocz¹tkowego okresu gwarancji lub na okres trzydziestu (30) dni, w zale¿noœci od tego, który z tych okresów jest d³u¿szy.
+
+BRAK INNYCH GWARANCJI.
+Firma BVRP Software wy³¹cza wszystkie pozosta³e gwarancje, zarówno sformu³owane wprost, jak dorozumiane, ze szczególnym uwzglêdnieniem dorozumianych gwarancji przydatnoœci do sprzeda¿y i zastosowañ do okreœlonych celów, odnosz¹ce siê do niniejszego OPROGRAMOWANIA, towarzysz¹cych materia³ów drukowanych i dowolnego towarzysz¹cego sprzêtu.
+Niniejsza ograniczona gwarancja daje u¿ytkownikowi szczególne uprawnienia. Ich zakres mo¿e ulec zmianie, w zale¿noœci od lokalnych przepisów prawa.
+
+BRAK ODPOWIEDZIALNOŒCI PRAWNEJ ZA SZKODY WYNIKOWE.
+W ¿adnym przypadku firma BVRP i jej dostawcy nie ponosz¹ odpowiedzialnoœci prawnej za jakiekolwiek szkody (w³¹czaj¹c w to, bez ograniczeñ, utratê dochodów z produkcji, przerwy w produkcji, utratê informacji lub inne straty pieniê¿ne) wynik³e z u¿ytkowania lub niemo¿noœci u¿ytkowania niniejszego produktu firmy BVRP, nawet je¿eli firma BVRP zosta³a poinformowana o mo¿liwoœci ich wyst¹pienia.
+Poniewa¿ prawo niektórych pañstw nie zezwala na wy³¹czenie lub ograniczenie odpowiedzialnoœci prawnej za szkody wynikowe lub przypadkowe, powy¿sze ograniczenia mog¹ nie mieæ zastosowania do u¿ytkownika.
+
+OGRANICZONE PRAWA RZ¥DU STANÓW ZJEDNOCZONYCH.
+OPROGRAMOWANIE i dokumentacja s¹ zabezpieczone OGRANICZONYMI PRAWAMI. U¿ytkowanie, powielanie i ujawnianie przez rz¹d podlegaj¹ ograniczeniom przed³o¿onym odpowiednio w podpunkcie (c)(1)(ii) klauzuli The Rights in Technical Data and Computer Software (symbol DFARS 252.227-7013) lub podpunktach (c)(1) i (2) Commercial Computer Software -Restricted Rights (symbol 48 CFR 52.227-19).
+Producentem jest firma BVRP Software S.A. 1bis, rue Collange 92593 Levallois Perret Cedex France.

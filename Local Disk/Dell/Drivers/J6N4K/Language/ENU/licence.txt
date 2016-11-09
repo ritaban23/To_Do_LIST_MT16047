@@ -1,0 +1,39 @@
+License
+
+This is a local agreement between you (either an individual or an entity), the end user, and BVRP Software S.A. (BVRP). If you do not agree to the terms of this agreement, promptly return the disk package and accompanying items (including written materials and binders or other containers) to the place you obtained them for a full refund.
+
+BVRP SOFTWARE S.A. SOFTWARE LICENSE
+1.GRANT OF LICENSE.
+This BVRP Software License Agreement ("License") permits you to use one copy of the specified version of the software product identified above ("SOFTWARE") on any single computer, provided the SOFTWARE is in use on only one computer at any time.
+If you have multiple licenses for the SOFTWARE then at any time you may have as many copies of the SOFTWARE in use as you have Licenses.
+The SOFTWARE is "in use" on a computer when it is loaded into the temporary memory (i.e., RAM) or installed into the permanent memory (e.g., hard disk, CD ROM or other storage device) of that computer except that a copy installed on a network server for the sole purpose of distribution to other computers is not "in use."
+If the anticipated number of users of the SOFTWARE will exceed the number of applicable Licenses, then you must have a reasonable mechanism or process in place to assure that the number of persons using the SOFTWARE concurrently does not exceed the number of Licenses. 
+If the SOFTWARE is permanently installed on the hard disk or other storage device of a computer (other than a network server) and one person uses that computer more than 80% of the time it is in use, then that person may also use the SOFTWARE on a portable or home computer.
+
+2.COPYRIGHT.
+The SOFTWARE is owned by BVRP and is protected by United States copyright laws and international treaty provisions. Therefore, you must treat the SOFTWARE like any other copyrighted material (e.g., a book or musical recording) except that you may either (a) make one copy of the SOFTWARE solely for backup or archival purposes, or (b) transfer the SOFTWARE to a single hard disk provided you keep the original solely for backup or archival purposes.
+You may not copy the written materials accompanying the SOFTWARE.
+
+3.OTHER RESTRICTIONS.
+This BVRP License Agreement is your proof of license to exercise the rights granted herein and must be retained by you. You may not rent or lease the SOFTWARE, but you may transfer your rights under this BVRP License Agreement on a permanent basis provided you transfer this License Agreement, the SOFTWARE and all accompanying written materials, retain no copies, and the recipient agrees to the terms of this Agreement.
+You may not reverse engineer, decompile, or disassemble the SOFTWARE. If the SOFTWARE is an update, any transfer must include the update and all prior versions.
+
+LIMITED WARRANTY.
+BVRP warrants that (a) the SOFTWARE will perform substantially in accordance with the accompanying written materials for a period of ninety (90) days from the date of receipt; and (b) any hardware accompanying the SOFTWARE will be free from defects in materials and workmanship under normal use and service for a period of one (1) year from the date of receipt.
+Any implied warranties on the SOFTWARE and hardware are limited to ninety (90) days and one (1) year, respectively. Some states do not allow limitations on duration of an implied warranty, so the above limitation may not apply to you.
+
+CUSTOMER REMEDIES.
+BVRP's entire liability and your exclusive remedy shall be, at BVRP's option, either (a) return of the price paid or (b) repair or replacement of the SOFTWARE or hardware that does not meet BVRP's Limited Warranty and that is returned to BVRP with a copy of your receipt.
+This Limited Warranty is void if failure of the SOFTWARE or hardware has resulted from accident, abuse or misapplication. Any replacement SOFTWARE will be warranted for the remainder of the original warranty period or thirty (30) days, which ever is longer.
+
+NO OTHER WARRANTIES.
+BVRP Software disclaim all other warranties, either express or implied, including but not limited to implied warranties of merchantability and fitness for a particular purpose, with respect to the SOFTWARE, the accompanying written materials, and any accompanying hardware.
+This limited warranty gives you specific legal rights. You may have others, which vary from state to state.
+
+NO LIABILITY FOR CONSEQUENTIAL DAMAGES.
+In no event shall BVRP, or their suppliers be liable for any damages whatsoever (including, without limitation, damages for loss of business profits, business interruption, loss of business information, or other pecuniary loss) arising out of the use or inability to use this BVRP product, even if BVRP have been advised of the possibility of such damages.
+Because some states do not allow the exclusion or limitation of liability for consequential or incidental damages, the above limitation may not apply to you.
+
+US GOVERNMENT RESTRICTED RIGHTS.
+The SOFTWARE and documentation are provided with RESTRICTED RIGHTS. Use, duplication, or disclosure by the Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of The Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs (c)(1) and (2) of the Commercial Computer Software -Restricted Rights at 48 CFR 52.227-19, as applicable.
+Manufacturer is BVRP Software S.A. 1bis, rue Collange 92593 Levallois Perret Cedex France.

@@ -1,0 +1,125 @@
+[2014/05/10 22:24:58] *****************************************************
+[2014/05/10 22:24:58] Dispatcher: Spanning worker process C:\Program Files\Common Handset USB Driver\SetupImpl32.exe -i
+[2014/05/10 22:24:58] Dispatcher: Span worker process success, process id 3276, waiting for process to finish...
+[2014/05/10 22:24:58] Setup: Main thread started, thread id 0x000008B8
+[2014/05/10 22:24:58] DriverDir is : C:\Program Files\Common Handset USB Driver\Win32\
+[2014/05/10 22:24:58] CleanDevice: Dealing with device USB\VID_1C9E&PID_9E08\MICROMAXA111 information in register
+[2014/05/10 22:24:58] CleanDevice: Device USB\VID_1C9E&PID_9E08\MICROMAXA111 information in register was marked as reinstall driver,because it appeared after switch with other driver
+[2014/05/10 22:25:01] ExecuteSingleRegeditReq: Register operation fail, req 2,HKEY_LOCAL_MACHINE,SYSTEM\CurrentControlSet\Control\Class\{3F966BD9-FA04-4EC5-991C-D326973B5128},ClassDesc,,1 error code 0x00000000
+[2014/05/10 22:25:01] ShiftDevice: Shifting device...
+[2014/05/10 22:25:01] ShiftDevice: Shift mode is 0
+[2014/05/10 22:25:01] ShiftDevice: SCSI device USBSTOR\CdRomUSBModemDisk____________2.31 found,sending SCSI cmd 06,f5,04,02,52,71
+[2014/05/10 22:25:01] ShiftDevice: Send SCSI cmd 06,f5,04,02,52,71 finish,result is 0x00000000,begin to install driver
+[2014/05/10 22:25:01] RefreshDeviceSet: Waiting 30 seconds for system to enum device...
+[2014/05/10 22:25:32] RefreshDeviceSet: Device is ready for auto match
+[2014/05/10 22:25:32] AutoDeviceMatch: Auto matching device...
+[2014/05/10 22:25:32] AutoDeviceMatch: User set match mode to 0
+[2014/05/10 22:25:32] AutoDeviceMatch: Max match cycle is 30 times, cycle interval is 1 seconds
+[2014/05/10 22:25:32] DriverDir is : C:\Program Files\Common Handset USB Driver\Win32\
+[2014/05/10 22:25:32] AutoDeviceMatch: Auto device match finish,total 4 devices matched
+[2014/05/10 22:25:32] UpdateInstall: Matched device USB\VID_1C9E&PID_9E18&MI_00
+[2014/05/10 22:25:32] UpdateInstall: Matched device USB\VID_1C9E&PID_9E18&MI_01
+[2014/05/10 22:25:32] UpdateInstall: Matched device USB\VID_1C9E&PID_9E18&MI_02
+[2014/05/10 22:25:32] UpdateInstall: Matched device USB\VID_1C9E&PID_9E18&MI_03
+[2014/05/10 22:25:32] DriverDir is : C:\Program Files\Common Handset USB Driver\Win32\
+[2014/05/10 22:25:32] UpdateInstall: Inf C:\Program Files\Common Handset USB Driver\Win32\android_winusb.inf priority is 0
+[2014/05/10 22:25:32] UpdateInstall: Inf C:\Program Files\Common Handset USB Driver\Win32\cmshser.inf priority is 1
+[2014/05/10 22:25:32] UpdateInstall: Inf C:\Program Files\Common Handset USB Driver\Win32\cmshmdm.inf priority is 2
+[2014/05/10 22:25:32] UpdateInstall: Retry count is 10 times,retry interval is 3 seconds
+[2014/05/10 22:25:32] UpdateInstall: Installing device USB\VID_1C9E&PID_9E18&MI_00 using inf C:\Program Files\Common Handset USB Driver\Win32\android_winusb.inf
+[2014/05/10 22:25:32] DriverDir is : C:\Program Files\Common Handset USB Driver\Win32\
+[2014/05/10 22:25:32] UpdateInstall: Inf C:\Program Files\Common Handset USB Driver\Win32\android_winusb.inf is not suitable for device USB\VID_1C9E&PID_9E18&MI_00
+[2014/05/10 22:25:32] UpdateInstall: Installing device USB\VID_1C9E&PID_9E18&MI_01 using inf C:\Program Files\Common Handset USB Driver\Win32\android_winusb.inf
+[2014/05/10 22:25:32] DriverDir is : C:\Program Files\Common Handset USB Driver\Win32\
+[2014/05/10 22:25:35] UpdateInstall: Device USB\VID_1C9E&PID_9E18&MI_01 successfully installed with inf C:\Program Files\Common Handset USB Driver\Win32\android_winusb.inf,reboot status is 0
+[2014/05/10 22:25:35] UpdateInstall: Installing device USB\VID_1C9E&PID_9E18&MI_02 using inf C:\Program Files\Common Handset USB Driver\Win32\android_winusb.inf
+[2014/05/10 22:25:35] DriverDir is : C:\Program Files\Common Handset USB Driver\Win32\
+[2014/05/10 22:25:35] UpdateInstall: Inf C:\Program Files\Common Handset USB Driver\Win32\android_winusb.inf is not suitable for device USB\VID_1C9E&PID_9E18&MI_02
+[2014/05/10 22:25:35] UpdateInstall: Installing device USB\VID_1C9E&PID_9E18&MI_03 using inf C:\Program Files\Common Handset USB Driver\Win32\android_winusb.inf
+[2014/05/10 22:25:35] DriverDir is : C:\Program Files\Common Handset USB Driver\Win32\
+[2014/05/10 22:25:35] UpdateInstall: Inf C:\Program Files\Common Handset USB Driver\Win32\android_winusb.inf is not suitable for device USB\VID_1C9E&PID_9E18&MI_03
+[2014/05/10 22:25:35] UpdateInstall: Installing device USB\VID_1C9E&PID_9E18&MI_00 using inf C:\Program Files\Common Handset USB Driver\Win32\cmshser.inf
+[2014/05/10 22:25:35] DriverDir is : C:\Program Files\Common Handset USB Driver\Win32\
+[2014/05/10 22:25:41] UpdateInstall: Device USB\VID_1C9E&PID_9E18&MI_00 successfully installed with inf C:\Program Files\Common Handset USB Driver\Win32\cmshser.inf,reboot status is 0
+[2014/05/10 22:25:41] UpdateInstall: Installing device USB\VID_1C9E&PID_9E18&MI_02 using inf C:\Program Files\Common Handset USB Driver\Win32\cmshser.inf
+[2014/05/10 22:25:41] DriverDir is : C:\Program Files\Common Handset USB Driver\Win32\
+[2014/05/10 22:25:41] UpdateInstall: Inf C:\Program Files\Common Handset USB Driver\Win32\cmshser.inf is not suitable for device USB\VID_1C9E&PID_9E18&MI_02
+[2014/05/10 22:25:41] UpdateInstall: Installing device USB\VID_1C9E&PID_9E18&MI_03 using inf C:\Program Files\Common Handset USB Driver\Win32\cmshser.inf
+[2014/05/10 22:25:41] DriverDir is : C:\Program Files\Common Handset USB Driver\Win32\
+[2014/05/10 22:25:42] UpdateInstall: Device USB\VID_1C9E&PID_9E18&MI_03 successfully installed with inf C:\Program Files\Common Handset USB Driver\Win32\cmshser.inf,reboot status is 0
+[2014/05/10 22:25:42] UpdateInstall: Installing device USB\VID_1C9E&PID_9E18&MI_02 using inf C:\Program Files\Common Handset USB Driver\Win32\cmshmdm.inf
+[2014/05/10 22:25:42] DriverDir is : C:\Program Files\Common Handset USB Driver\Win32\
+[2014/05/10 22:25:44] UpdateInstall: Device USB\VID_1C9E&PID_9E18&MI_02 successfully installed with inf C:\Program Files\Common Handset USB Driver\Win32\cmshmdm.inf,reboot status is 0
+[2014/05/10 22:25:44] PreInstallRndisDriver: need install rndis is 1
+[2014/05/10 22:25:44] RndisDriverDir is : C:\Program Files\Common Handset USB Driver\Rndis\Win32\
+[2014/05/10 22:25:44] PreInstallRndisDriver: Inf to copy C:\Program Files\Common Handset USB Driver\Rndis\Win32\cmshrndis.inf
+[2014/05/10 22:25:44] PreInstallRndisDriver: Watchdog thread started, thread id 0x00000B0C
+[2014/05/10 22:25:44] PreInstallWorkItemThreadFun: Copying inf C:\Program Files\Common Handset USB Driver\Rndis\Win32\cmshrndis.inf to system inf floder...
+[2014/05/10 22:25:44] PreInstallRndisDriver: Workitem thread started, thread id 0x00000E80
+[2014/05/10 22:25:45] PreInstallWorkItemThreadFun: Inf C:\Program Files\Common Handset USB Driver\Rndis\Win32\cmshrndis.inf was copied to inf C:\Windows\INF\oem29.inf
+[2014/05/10 22:25:45] PreInstallRndisDriver: Message 0x7EB from thread 0x00000E80
+[2014/05/10 22:25:45] PreInstallRndisDriver: bWorkSuccess is true, pre install success.
+[2014/05/10 22:25:45] Setup: Setup process complete, total 47 seconds used
+[2016/06/02 10:17:47] *****************************************************
+[2016/06/02 10:17:47] Dispatcher: Spanning worker process C:\Program Files\Common Handset USB Driver\SetupImpl32.exe -u
+[2016/06/02 10:17:47] Dispatcher: Span worker process success, process id 5284, waiting for process to finish...
+[2016/06/02 10:17:47] Setup: Main thread started, thread id 0x000014A8
+[2016/06/02 10:17:47] ExecuteSingleRegeditReq: Register operation fail, req 2,HKEY_LOCAL_MACHINE,SYSTEM\CurrentControlSet\Control\Class\{3F966BD9-FA04-4EC5-991C-D326973B5128},ClassDesc,,1 error code 0x00000000
+[2016/06/02 10:17:47] DriverDir is : C:\Program Files\Common Handset USB Driver\Win32\
+[2016/06/02 10:17:47] ExecuteSingleRegeditReq: Register operation fail, req 3,HKEY_LOCAL_MACHINE,SOFTWARE\LphcmModem\HSPA USB Modem,DeviceID,,1,$Wow6432Node,$USERKEY error code 0x00000000
+[2016/06/02 10:17:47] GetDevIDToUnInstall: No device id configuration found in regedit,use device id found in inf
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_1C9E&PID_9F14
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_1C9E&PID_9D08
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_1C9E&PID_9E08
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_1C9E&PID_9D3E
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_18D1&PID_D00D
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_1C9E&PID_9E30
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_1C9E&PID_9E07
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_1C9E&PID_9E18
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_1C9E&PID_9E11
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_1C9E&PID_9F15
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_1C9E&PID_9F10
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_1C9E&PID_9F13
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_1C9E&PID_9D07
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_1C9E&PID_9D17
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_1C9E&PID_9D11
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_05C6&PID_9018
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_05C6&PID_9025
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_05C6&PID_9024
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_1C9E&PID_9E17
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_1C9E&PID_9D16
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_1C9E&PID_9D15
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_1C9E&PID_9F11
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_05C6&PID_9026
+[2016/06/02 10:17:47] UnInstall: Device to uninstall USB\VID_05C6&PID_9017
+[2016/06/02 10:17:50] UnInstall: vecInfToClean push_back : C:\WINDOWS\INF\OEM27.INF
+[2016/06/02 10:17:51] UnInstall: vecInfToClean file exist : C:\WINDOWS\INF\OEM27.INF
+[2016/06/02 10:17:51] UnInstall: vecInfToClean push_back : C:\WINDOWS\INF\OEM26.INF
+[2016/06/02 10:17:51] UnInstall: vecInfToClean push_back : C:\WINDOWS\INF\OEM28.INF
+[2016/06/02 10:17:51] UnInstall: vecInfToClean file exist : C:\WINDOWS\INF\OEM27.INF
+[2016/06/02 10:17:52] UnInstall: Removing device USB\VID_1C9E&PID_9E18&MI_04\7&3ADCC6F1&0&0004
+[2016/06/02 10:17:52] UnInstall: Device USB\VID_1C9E&PID_9E18&MI_04\7&3ADCC6F1&0&0004 removed successfully,reboot state is 0
+[2016/06/02 10:17:52] UnInstall: Removing device USB\VID_1C9E&PID_9E18&MI_03\7&3ADCC6F1&0&0003
+[2016/06/02 10:17:52] UnInstall: Device USB\VID_1C9E&PID_9E18&MI_03\7&3ADCC6F1&0&0003 removed successfully,reboot state is 0
+[2016/06/02 10:17:52] UnInstall: Removing device USB\VID_1C9E&PID_9E18&MI_02\7&3ADCC6F1&0&0002
+[2016/06/02 10:17:52] UnInstall: Device USB\VID_1C9E&PID_9E18&MI_02\7&3ADCC6F1&0&0002 removed successfully,reboot state is 0
+[2016/06/02 10:17:52] UnInstall: Removing device USB\VID_1C9E&PID_9E18&MI_01\7&3ADCC6F1&0&0001
+[2016/06/02 10:17:52] UnInstall: Device USB\VID_1C9E&PID_9E18&MI_01\7&3ADCC6F1&0&0001 removed successfully,reboot state is 0
+[2016/06/02 10:17:52] UnInstall: Removing device USB\VID_1C9E&PID_9E18&MI_00\7&3ADCC6F1&0&0000
+[2016/06/02 10:17:52] UnInstall: Device USB\VID_1C9E&PID_9E18&MI_00\7&3ADCC6F1&0&0000 removed successfully,reboot state is 0
+[2016/06/02 10:17:52] UnInstall: Removing device USB\VID_1C9E&PID_9E08&MI_01\7&16B553D7&0&0001
+[2016/06/02 10:17:52] UnInstall: Device USB\VID_1C9E&PID_9E08&MI_01\7&16B553D7&0&0001 removed successfully,reboot state is 0
+[2016/06/02 10:17:52] UnInstall: Removing device USB\VID_1C9E&PID_9E08&MI_00\7&16B553D7&0&0000
+[2016/06/02 10:17:52] UnInstall: Device USB\VID_1C9E&PID_9E08&MI_00\7&16B553D7&0&0000 removed successfully,reboot state is 0
+[2016/06/02 10:17:52] UnInstall: Removing device USB\VID_1C9E&PID_9E08\MICROMAXA111
+[2016/06/02 10:17:52] UnInstall: Device USB\VID_1C9E&PID_9E08\MICROMAXA111 removed successfully,reboot state is 0
+[2016/06/02 10:17:52] UnInstall: Removing device USB\VID_1C9E&PID_9E18\MICROMAXA111
+[2016/06/02 10:17:52] UnInstall: Device USB\VID_1C9E&PID_9E18\MICROMAXA111 removed successfully,reboot state is 0
+[2016/06/02 10:17:52] RemoveFile: File C:\Windows\SYSTEM32\DRIVERS\cmshusbser.sys was deleted successfully
+[2016/06/02 10:17:52] RemoveFile: File C:\WINDOWS\INF\OEM27.INF was deleted successfully
+[2016/06/02 10:17:52] RemoveFile: Error in deleting file : C:\WINDOWS\INF\OEM27.PNF, error code 0x00000020
+[2016/06/02 10:17:52] RemoveFile: File C:\WINDOWS\INF\OEM26.INF was deleted successfully
+[2016/06/02 10:17:52] RemoveFile: Error in deleting file : C:\WINDOWS\INF\OEM26.PNF, error code 0x00000020
+[2016/06/02 10:17:52] RemoveFile: File C:\WINDOWS\INF\OEM28.INF was deleted successfully
+[2016/06/02 10:17:52] RemoveFile: Error in deleting file : C:\WINDOWS\INF\OEM28.PNF, error code 0x00000020
+[2016/06/02 10:17:52] Setup: Setup process complete, total 5 seconds used

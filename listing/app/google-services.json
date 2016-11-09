@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "899471801099",
+    "firebase_url": "https://app1-b6e53.firebaseio.com",
+    "project_id": "app1-b6e53",
+    "storage_bucket": "app1-b6e53.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:899471801099:android:8e9028604c89db84",
+        "android_client_info": {
+          "package_name": "com.example.rivu.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "899471801099-k2pth8ec0400gfqltnd0i1bviqpmuau7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIrfqdpTdyQoyDFEj-MSGQ3gB430vE6dI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

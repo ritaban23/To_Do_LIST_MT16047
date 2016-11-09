@@ -1,0 +1,39 @@
+Licens
+
+Detta är ett avtal mellan dig (fysisk eller juridisk person), slutanvändaren, och BVRP Software S.A. (BVRP). Om du inte går med på villkoren, skicka omedelbart tillbaka diskettförpackningen och tillhörande material (inklusive tryckt material, pärmar etc.) till inköpsstället, så får du tillbaka hela köpeskillingen.
+
+PROGRAMVARULICENS FRÅN BVRP SOFTWARE S.A. 
+1.LICENS
+Denna programvarulicens från BVRP S.A. ger dig rätt att använda en kopia av den ovan angivna programvaran (programmet) på vilken dator som helst förutsatt att bara en version av programmet används samtidigt.
+Om du har flera licenser för programmet, får du vid varje givet tillfälle använda så många kopior av programmet som du har licenser för.
+Programmet "används" på en dator när det laddats in i det temporära minnet (RAM) eller installerats i det fasta minnet (hårddisk, CD-ROM eller annat lagringsmedium) med undantag för en serverdator, vars enda uppgift är att överföra programmet till andra användare - den datorn anses inte "använda" programmet.
+Om det förväntade antalet användare överstiger antalet licenser, måste du ha en rutin som ser till att antalet användare inte faktiskt överstiger antalet licenser.
+Om programmet är permanent installerat på en hårddisk eller annat lagringsmedium på en dator (ej nätverksdatorn) och en person använder den mer än 80 % av tiden, så har den personen även rätt att använda programmet på en bärbar dator eller en dator i hemmet.
+
+2.COPYRIGHT
+Programmet ägs av BVRP och skyddas av amerikanska upphovsrättslagar och internationella fördragsbestämmelser. Därför måste du behandla programmet som vanligt upphovsrättsskyddat material (t.ex. en bok eller musikinspelning) med det undantaget att du får (a) göra en kopia av programmet, som säkerhetskopia eller för arkivering eller (b) överföra programmet till en enda hårddisk, förutsatt att du behåller de ursprungliga diskettkopiorna som säkerhetskopior eller för arkivering.
+Du får inte kopiera det skrivna materialet som medföljer programmet.
+
+3.ÖVRIGA BEGRÄNSNINGAR
+BVRP programvarulicens är ditt licensbevis och du måste spara det för att göra dina rättigheter enligt avtalet gällande. Du får inte hyra eller låna ut programmet, men du får överlåta dina licensrättigheter permanent, förutsatt att du överlämnar allt material som medföljer programmet och alla kopior av programmet samt att mottagaren går med på villkoren i avtalet.
+Du får inte ta isär, dekompilera eller på annat sätt manipulera med programmets programspråk. S.k. "reverse engineering" är inte tillåten. Om programmet är en uppdatering, måste varje överlåtelse omfatta uppdateringen och alla tidigare versioner.
+
+GARANTI
+BVRP garanterar att (a) programmet kommer att uppföra sig i huvudsak enligt det medföljande skrivna materialet under en tid av nittio (90) dagar från inköp och (b) att hårdvara som meföljer programmet är fritt från varje fel i material eller sammansättning under en period av ett (1) år från inköp, förutsatt att det används och servas på ett normalt sätt.
+Alla underförstådda garantier om program- och hårdvara är begränsade till nittio (90) dagar resp. ett (1) år. Vissa stater tillåter inte begränsningar i tid av underförstådda garantier, så ovanstående begränsning kanske inte gäller dig.
+
+KUNDENS RÄTTIGHETER.
+BVRP:s enda ansvar och din enda rättighet är att, efter BVRP:s skön, antingen (a) återbetala köpeskillingen eller (b) reparera eller byta ut program eller hårdvara som återsänds till BVRP:s garanti och som skickas tillbaka till BVRP tillsammans med en kopia av inöpsbeviset.
+Garantin gäller inte om felet på programmet eller hårdvaran beror på olycka, misshandel eller felanvändning. Alla utbytesprogram garanteras för återstoden av det längsta av den ursprungliga garantiperioden och trettio (30) dagar.
+
+INGA ANDRA GARANTIER.
+BVRP Software frånsäger sig alla andra garantier, uttryckliga och underförstådda, inklusive men inte begränsat till underförstådda garantier om saluförbarhet eller lämplighet för ett visst syfte, vad avser programmet, den medföljande dokumentationen eller medföljande hårdvara.
+Denna garanti ger dig specifika juridiska rättigheter. Du kan även ha andra rättigheter, som varierar från land till land.
+
+INGA GARANTIER FÖR FÖLJDSKADOR.
+BVRP ska under inga omständigheter ansvara för skador (inklusive och utan begränsning, skador p.g.a. förlorad vinst, driftsstopp, förlorad affärsinformation, eller annan ekonomisk skada) som beror på användning eller omöjlighet att använda denna BVRP-produkt, även om BVRP meddelats om denna möjlighet i förväg.
+Eftersom en del stater inte tillåter friskrivning eller undantag från ansvar för indirekta skador eller följdskador, kanske ovannämnda begränsningar inte gäller dig.
+
+US GOVERNMENT RESTRICTED RIGHTS.
+The SOFTWARE and documentation are provided with RESTRICTED RIGHTS. Use, duplication, or disclosure by the Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of The Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs (c)(1) and (2) of the Commercial Computer Software -Restricted Rights at 48 CFR 52.227-19, as applicable.
+Manufacturer is BVRP Software S.A. 1bis, rue Collange 92593 Levallois Perret Cedex France.

@@ -1,0 +1,8 @@
+Title: Communications: D400,External USB 56K Modem Application
+Version: A02-00        WP0000001223
+OEM Name: 
+OEM Version: NW2.5.59
+Computers: Optiplex: 390; Inspiron: M5010, N7110, N5040, M5040, N311Z, 1457, 1458, 1470, N411Z, N5050, N7010, N4120, N3010, 1570, N4110, N4050, N5030, M4110, N4030, M5110, M4040, N4010, M301Z, N5110, N5010, 1749, M5030, 1450; XPS Notebook: L701X, L702X, L501X, L502X, L401X; Inspiron Desktop: 410; Vostro Notebook: 1450, 1550, 1440, V130, V131, 1540, Vostro 3555, 3700, 3450, 3750, 3550, 3300, 3350; Latitude: Latitude 13, E6320, E4310, XT2, XT3, E5510, E5410
+OS: Windows 7 32-bit - Home Basic, Windows 7 64-bit - Home Basic, Windows 7 32-bit - Home Premium, Windows 7 64-bit - Home Premium, Windows 7 32-bit - Professional, Windows 7 64-bit - Professional, Windows 7 32-bit - Ultimate, Windows 7 32-bit - Starter, Windows 7 64-bit - Ultimate, Windows Vista 32-bit - Home Premium, Windows Vista 32-bit - Home Basic, Windows Vista 32-bit - Business, Windows Vista 32-bit - Ultimate, Windows Vista 64-bit - Home Basic, Windows Vista 64-bit - Home Premium, Windows Vista 64-bit - Business, Windows Vista 64-bit - Ultimate, Windows XP - Home Edition, Windows XP - Professional, Windows XP x64 - Professional Client
+Languages: Arabic,Br Portuguese,Croatian,Chinese Simplified,Chinese Traditional,Czech,Danish,Dutch,English,Finnish,French,German,Greek,Hebrew,Iberian Portuguese,Italian,Japanese,Korean,Norwegian,Polish,Russian,Swedish,Spanish,Thai,Turkish
+Created: 1/4/2012

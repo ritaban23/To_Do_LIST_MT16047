@@ -1,0 +1,39 @@
+Lisans
+
+Ýþbu sözleþme, (bir gerçek kiþi veya tüzel kiþilik olarak) son kullanýcý olan sizinle, BVRP Software S.A. (BVRP) arasýnda yapýlan yerel bir sözleþmedir. Ýþbu sözleþme hükümlerini kabul etmemeniz halinde, ürün bedelini geri almak için disk paketlerini ve eþlik eden diðer malzemeleri (yazýlý malzemeler ve dosyalarý veya diðer kýlýflar dahil olmak üzere) satýn aldýðýnýz yere iade edin.
+
+BVRP SOFTWARE S.A. YAZILIM LÝSANSI
+1. LÝSANS VERME. 
+Ýþbu BVRP Yazýlým Lisans Sözleþmesi ("Lisans"), yukarýda adý verilen yazýlým ürününün belirtilen sürümünün bir kopyasýný ("YAZILIM"), YAZILIM'ýn yalnýzca bir bilgisayarda kullanýlmasý koþuluyla kullanmanýza izin verir.
+YAZILIM'ýn birden çok lisansýna sahipseniz, YAZILIM'ýn herhangi bir anda kullanýmda olan Lisans sayýsý kadar kopyasýna sahip olabilirsiniz.
+YAZILIM, yalnýzca diðer bilgisayarlara daðýtýlmak amacýyla bir að sunucusunda yüklü olduðu zaman "kullanýmda" olarak kabul edilmediði durum dýþýnda, bir bilgisayarýn geçici belleðinde (ör. RAM) veya sürekli belleðinde (ör. sabit disk, CD ROM veya diðer bir saklama aygýtýnda) yüklü olduðu zaman söz konusu bilgisayarda "kullanýmda" olarak kabul edilir.
+YAZILIM'ýn tahmin edilen kullanýcý sayýsýnýn, geçerli Lisans sayýsýný aþmasý durumunda, YAZILIM'ý ayný zamanda kullanan kiþi sayýsýnýn Lisans sayýsýný geçmemesini saðlayacak makul bir mekanizmanýn veya iþlemin kurulu olmasý gerekir. 
+YAZILIM'ýn bir kopyasýnýn bir bilgisayarýn (bir að sunucusu dýþýnda) sabit diskinde veya baþka bir saklama aygýtýnda yüklü olmasý durumunda ve söz konusu bilgisayarýn kullanýmda olduðu sürenin % 80'i boyunca tek bir kiþi tarafýndan kullanýlmasý halinde, ayný kiþi, YAZILIM'ý taþýnabilir bir bilgisayarda veya ev bilgisayarýnda da kullanabilir.
+
+2.TELÝF HAKKI.
+YAZILIM BVRP'ye aittir ve A.B.D. telif haklarý yasalarý ve uluslararasý anlaþmalar hükümleri ile korunmaktadýr. Bu nedenle YAZILIM'ý telif haklarý bulunan diðer malzemeler gibi (ör. kitap veya müzik kayýtlarý gibi) kabul etmeniz gerekir ancak (a) yalnýzca yedekleme ve arþiv amacýyla YAZILIM'ýn bir kopyasýný alabilir veya (b) özgün olaný yedekleme ve arþivleme amacýyla muhafaza etmeniz kaydýyla, YAZILIM'ý tek bir sabit diske yükleyebilirsiniz.
+YAZILIM ile birlikte verilen yazýlý malzemeleri kopyalayamazsýnýz.
+
+3. DÝÐER SINIRLAMALAR.
+Ýþbu BVRP Lisans Sözleþmesi, bu sözleþme kapsamýnda size verilen haklarý kullanma yetkiniz olduðunun kanýtý olup saklanmalýdýr. YAZILIM'ý kiralayamazsýnýz ancak Lisans Sözleþmesi'ni, YAZILIM'ý, eþlik eden bütün yazýlý belgeleri, kopyalarýný saklamadan devretmeniz ve devralan kiþinin de iþbu Sözleþme'nin hükümlerine uymayý kabul etmesi koþuluyla BVRP Lisans Sözleþmesi kapsamýnda size verilmiþ olan haklarýnýzý devredebilirsiniz.
+YAZILIM üzerinde ters mühendislik iþlemi yapamaz, YAZILIM'ý kaynak koda dönüþtüremez ve parçalarýna ayýramazsýnýz. YAZILIM'ýn yükseltme olmasý halinde gerçekleþtirilecek herhangi bir devrin, önceki tüm sürümleri ve en son yükseltmesini de kapsamasý gerekir.
+
+SINIRLI GARANTÝ.
+BVRP, (a) YAZILIM'ýn satýn alma makbuzu üzerindeki tarihten itibaren doksan (90) gün süreyle, birlikte verilen yazýlý malzemelerde belirtilenlere önemli ölçüde uygun olarak çalýþacaðýný ve (b) YAZILIM'la birlikte verilen herhangi bir donanýmýn malzeme ve iþçilik yönünden normal kullaným ve bakým koþullarýnda bir (1) yýl süreyle arýzalanýp bozulmayacaðýný garanti etmektedir.
+YAZILIM ve donaným ile ilgili olarak verilen tüm zýmni garantiler sýrasýyla 90 gün ve bir (1) yýlla sýnýrlýdýr. Bazý bölgelerde zýmni garantilerin sýnýrlandýrýlmasýna izin verilmemesi nedeniyle yukarýdaki sýnýrlama sizin için geçerli olmayabilir.
+
+MÜÞTERÝ TAZMÝNATLARI.
+BVRP'nin tüm sorumluluðu ve sizin özel tazminat hakkýnýz, seçim kararý BVRP'ye ait olmak üzere, (a) ödenen fiyatýn iadesi veya (b) BVRP'nin Sýnýrlý Garantisi'ne uymayan, alýndý makbuzu ile birlikte BVRP'ye iade edilen YAZILIM'ý onarmak veya deðiþtirmekten ibarettir.
+Yazýlým veya donaným arýzasýnýn bir kaza sonucunda oluþmasý ya da yanlýþ kullanma veya uygulamadan kaynaklanmasý durumunda iþbu Sýnýrlý Garanti geçerli olmayacaktýr. Deðiþtirilen herhangi bir YAZILIM, hangisi daha uzunsa, ilk garanti süresinin kalan süresi kadar veya otuz (30) gün süreyle garanti edilir.
+
+BAÞKA GARANTÝ BULUNMADIÐI.
+BVRP Software, birlikte verilen yazýlý malzemeler ve varsa donanýmla ilgili olarak ticari olarak satýlabilirlik, belirli bir amaca uygunluk dahil olmak üzere ancak bunlarla sýnýrlý olmamak kaydýyla zýmnen veya açýklýkla verilen tüm garantilerin geçersiz olduðunu beyan eder.
+Ýþbu sýnýrlý garanti tarafýnýza belirli yasal haklar tanýr. Bölgeden bölgeye deðiþen baþka haklarýnýz da olabilir.
+
+TAZMÝNAT SORUMLULUÐUN BULUNMADIÐI.
+BVRP ve bayileri, bu BVRP ürününün kullanýlmasýndan veya kullanýlamamasýndan doðan (kar kaybý, iþin durmasý, iþle ilgili bilgilerin yitirilmesi veya diðer herhangi bir mali zarar dahil olmak ancak bunlarla sýnýrlý olmamak kaydýyla) hiçbir zarar, ziyan veya tazminattan, BVRP bu tur bir zararýn oluþma olasýlýðýndan haberdar edilmiþ olsa dahi, sorumlu deðildir.
+Bazý bölgelerde neden olunan ya da arýzi zararlar için sorumluluk sýnýrlandýrýlmasýna veya hariç tutulmasýna izin vermemesi nedeniyle yukarýdaki sýnýrlama sizin için geçerli olmayabilir.
+
+ABD HÜKÜMETÝ SINIRLI HAKLARI.
+YAZILIM VE BELGELER, SINIRLI haklarla birlikte verilmektedir. Yazýlým ürününün Amerikan Hükümeti tarafýndan kullanýmý, çoðaltýlmasý ve açýklanmasý aþaðýda belirtilen sýnýrlamalara tabidir: (c)(1)(ii) Rights in Technical Data and Computer Software - DFARS 252.227-7013 veya (c)(1) ve (2) Commercial Computer Software - Restricted Rights 48 CFR 52.227-19.
+Üretici BVRP Software S.A. 1bis, rue Collange 92593 Levallois Perret Cedex France.

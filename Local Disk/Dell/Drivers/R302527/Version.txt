@@ -1,0 +1,9 @@
+Title      : Chip Set:Intel HM57 Express Chipset Family, HM67 Express Chipset Family Driver
+Version    : A00
+OEM Name   : Intel
+OEM Ver    : 9.2.0.1019
+Computers  : inspiron - N5040, N5050, N4050;
+Vostro Notebook - 1450, 1550, 1440, 1540
+Oses       : Windows 7 32-bit Home Basic, Windows 7 32-bit Home Premium, Windows 7 32-bit Professional, Windows 7 32-bit Starter, Windows 7 32-bit Ultimate, Windows 7 64-bit Home Basic, Windows 7 64-bit Home Premium, Windows 7 64-bit Professional, Windows 7 64-bit Ultimate, Windows Vista 32-bit Business, Windows Vista 32-bit Home Basic, Windows Vista 32-bit Home Premium, Windows Vista 32-bit Starter, Windows Vista 32-bit Ultimate, Windows Vista 64-bit BusinessWindows Vista 64-bit Home BasicWindows Vista 64-bit Home PremiumWindows Vista 64-bit UltimateWindows XP Embedded (DO NOT USE)Windows XP Home EditionWindows XP HOME ULCPCWindows XP Media Center EditionWindows XP ProfessionalWindows XP Professional 64-bit (IA64)Windows XP Tablet PC EditionWindows XP TESTWindows XP x64 Professional Client
+Languages  : Arabic, Brazilian Portuguese, Chinese-S, Chinese-T, Croatian, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Romanian, Russian, Slovakian, Slovenian, Spanish, Swedish, Thai, Turkish
+Created    : Wed Oct 5 22:51:15 CDT 2011

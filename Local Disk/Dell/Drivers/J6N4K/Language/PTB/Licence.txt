@@ -1,0 +1,41 @@
+Licença
+
+Este é um acordo local entre o utilizador (indivíduo ou outra entidade), utilizador final, e a BVRP Software S.A. (BVRP). Se não aceitar os termos deste acordo, devolva imediatamente à entidade a quem adquiriu o produto o conjunto de disquetes e os itens que o acompanham (incluindo documentação, capas ou outras embalagens), de modo a ser reembolsado. 
+
+LICENÇA DE SOFTWARE BVRP SOFTWARE S.A. 
+
+1. CONCESSÃO DE LICENÇA.
+Este Acordo de Licenciamento da BVRP Software ("Licença") permite-lhe utilizar uma cópia da versão especificada do produto acima identificado ("SOFTWARE") num único computador, desde que o SOFTWARE seja utilizado num único computador de cada vez.
+Se possuir várias licenças do SOFTWARE, poderá ter, a qualquer momento, o número de cópias do software correspondente ao número de Licenças que possui.
+Considera-se que o SOFTWARE está "em utilização" num computador quando está carregado na respectiva memória temporária (i.e., RAM) ou instalado na memória permanente (i.e. disco rígido, CD-ROM ou outro suporte de dados) desse computador, à excepção dos casos em que está instalada uma cópia num servidor de rede para distribuição a outros computador, em que se considera que o software não está "em utilização".
+Se o número antecipado de utilizadores do SOFTWARE exceder o número de Licenças aplicáveis, deverá ser implementado um mecanismo ou processo que assegure que o número de pessoas que utilizem simultaneamente o software não excede o número de Licenças que possui. 
+Se o SOFTWARE for instalado de forma permanente no disco rígido ou noutro suporte de dados de um computador (que não seja um servidor de rede) e uma pessoa utilizar esse computador mais de 80% do tempo de actividade desse computador, essa pessoa também poderá utilizar o SOFTWARE num computador portátil ou num computador pessoal, em casa.
+
+2. DIREITOS DE AUTOR (COPYRIGHT).
+O SOFTWARE é propriedade da BVRP e encontra-se protegido pelas leis de direitos de autor (copyright) dos Estados Unidos e por provisões de tratados internacionais.
+O SOFTWARE deverá, portanto, ser tratado como qualquer outro material protegido por direitos de autor (por exemplo, um livro ou gravação musical), à excepção dos seguintes casos: (a) pode efectuar uma cópia do SOFTWARE mas apenas para fins de cópia de segurança ou de arquivo ou (b) pode transferir o SOFTWARE para um único disco rígido, desde que mantenha o original para fins exclusivos de cópia de segurança ou arquivo.
+Não pode efectuar cópias do material impresso que acompanha o SOFTWARE.
+
+3. OUTRAS RESTRIÇÕES.
+Este Acordo de Licenciamento BVRP constitui a prova de que possui os direitos aqui concedidos, pelo que terá de a guardar.
+Não poderá alugar o SOFTWARE, mas poderá transferir os direitos que lhe são concedidos por este Acordo de Licenciamento BVRP, de forma permanente, desde que transfira este Acordo de Licenciamento, o SOFTWARE e todas as respectivas publicações, não guarde quaisquer cópias e que o receptor do mesmo aceite os termos do presente Acordo.
+Não pode executar acções de engenharia inversa nem descompilar o SOFTWARE. Se o SOFTWARE for uma actualização, qualquer transferência deverá incluir a actualização e todas as versões anteriores do SOFTWARE.
+
+GARANTIA LIMITADA 
+A BVRP garante que (a) o SOFTWARE funcionará substancialmente de acordo com as especificações descritas na documentação por um período de noventa (90) dias a contar da data de recepção; 
+e (b) qualquer hardware que acompanhe o SOFTWARE estará livre de defeitos de equipamento e mão-de-obra, numa utilização normal, por um período de um (1) ano a contar da data de recepção. Quaisquer garantias implícitas relativas ao SOFTWARE e ao hardware estão limitadas a noventa (90) dias e a um (1) ano, respectivamente. Algumas legislações não permitem a limitação de duração de uma garantia implícita, pelo que a limitação acima referida pode não se aplicar ao seu caso.
+
+RECURSOS DO CLIENTE.
+A responsabilidade total da BVRP e o único recurso do cliente será, por opção da BVRP: (a) reembolso do montante pago ou (b) reparação ou substituição do SOFTWARE ou hardware que não satisfaça a Garantia Limitada da BVRP e seja devolvido à BVRP acompanhado de uma cópia do seu recibo.
+Esta Garantia Limitada será anulada nos casos em que a falha do SOFTWARE ou do hardware tenha sido causada por acidente ou por utilização abusiva ou incorrecta.
+Qualquer SOFTWARE de substituição será garantido pelo tempo restante do período da garantia original ou por trinta (30) dias, o que for maior.
+
+NENHUMA OUTRA GARANTIA.
+A BVRP Software não fornece quaisquer outras garantias, quer explícitas quer implícitas, incluindo, mas não se limitando a garantias de comercialização e adequação a um determinado fim, relativamente ao SOFTWARE, à respectiva documentação e a qualquer hardware que o acompanhe. 
+Esta garantia limitada confere-lhe direitos legais específicos. Poderá ter outros direitos, consoante o local onde reside.
+
+NENHUMA RESPONSABILIDADE POR DANOS CONSEQUENTES.
+Em circunstância alguma serão a BVRP ou os seus fornecedores responsáveis por quaisquer danos (incluindo, sem limitação, danos por perda de lucros, interrupção de negócios, perda de informações de negócio ou outra perda financeira) resultantes da utilização ou da impossibilidade de utilizar este produto BVRP, ainda que a BVRP tenha sido informada da possibilidade de ocorrência de tais danos.
+Algumas legislações não permitem a exclusão ou a limitação de responsabilidades por danos consequentes ou acidentais, pelo que a limitação acima referida pode não se aplicar ao seu caso.
+
+O Fabricante é a BVRP Software S.A. 1bis, rue Collange 92593 Levallois Perret Cedex France.

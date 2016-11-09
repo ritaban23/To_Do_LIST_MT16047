@@ -1,0 +1,39 @@
+Licenca
+
+To je pogodba med vami (fizièno ali pravno osebo), konènim uporabnikom, in podjetjem BVRP Software S.A. (BVRP). Èe se ne strinjate s pogoji te pogodbe, takoj vrnite paket z nosilcem podatkov in spremljevalnimi materiali (vkljuèno s tiskanimi materiali in ovojnicami ali podobnim materialom) na mesto nakupa, kjer vam bodo v celoti povrnili ceno nakupa.
+
+LICENCA ZA PROGRAMSKO OPREMO PODJETJA BVRP SOFTWARE S.A. 
+1. PODELITEV LICENCE
+Ta licenèna pogodba s podjetjem BVRP ("Licenca") vam dovoljuje uporabo ene kopije doloèene razlièice programske opreme, ki je doloèena zgoraj ("PROGRAMSKA OPREMA") na enem raèunalniku naenkrat.
+Èe imate veè licenc za PROGRAMSKO OPREMO, imate lahko naenkrat v uporabi toliko kopij PROGRAMSKE OPREME kot imate licenc.
+PROGRAMSKA OPREMA je "v uporabi" na raèunalniku, ko je naložena v zaèasni pomnilnik (tj. RAM) ali namešèena v trajni pomnilnik (npr. trdi disk, CD ROM ali druga naprava za trajno shranjevanje podatkov) tega raèunalnika, razen, èe gre za kopijo, ki je namešèena na omrežnem strežniku z izkljuènim namenom distribucije drugim raèunalnikom.
+Èe prièakovano število uporabnikov PROGRAMSKE OPREME presega število ustreznih licenc, morate uvesti ustrezen mehanizem ali proces, ki prepreèuje, da bi število hkratnih uporabnikov preseglo število licenc. 
+Èe je PROGRAMSKA OPREMA trajno namešèena na trdi disk ali drugo napravo za trajno shranjevanje podatkov na raèunalniku (ki ni omrežni strežnik) in èe ta raèunalnik uporablja ena oseba vsaj 80 % èasa, potem lahko ta oseba namesti PROGRAMSKO OPREMO tudi na svoj prenosni ali domaèi raèunalnik.
+
+2. PRAVICA DO KOPIRANJA
+PROGRAMSKA OPREMA je v lasti BVRP in jo šèitijo zakoni Združenih držav ter mednarodni sporazumi. PROGRAMSKO OPREMO morate zato obravnavati kot katerikoli drug material z zašèitenimi avtorskimi pravicami (npr. knjigo ali glasbeni posnetek), z izjemo, da smete (a) izdelati eno kopijo PROGRAMSKE OPREME izkljuèno v varnostne ali arhivske namene ali (b) prenesti PROGRAMSKO OPREMO na en sam trdi disk, original pa obdržite izkljuèno v varnostne ali arhivske namene.
+Pisnih materialov, ki spremljajo PROGRAMSKO OPREMO, ne smete kopirati.
+
+3. DRUGE OMEJITVE
+Ta licenèna pogodba z BVRP je vaš dokaz, da imate samo vi pravico do izvajanja pravic, ki so z njo doloèene. PROGRAMSKE OPREME ne smete posojati ali dajati v najem, lahko pa vaše pravice iz te pogodbe trajno prenesete na drugo pravno ali fizièno osebo, èe ji hkrati predate tudi to licenèno pogodbo, PROGRAMSKO OPREMO in vse priložene pisne materiale, èe ne obdržite nobenih kopij in èe se prejemnik strinja z doloèili te pogodbe.
+PROGRAMSKE OPREME ne smete analizirati z namenom ugotovitve delovanja. Èe je PROGRAMSKA OPREMA posodobljena, mora vsak prenos vkljuèevati posodobitev in vse prehodne razlièice.
+
+OMEJENA GARANCIJA
+BVRP zagotavlja, da (a) bo PROGRAMSKA OPREMA delovala v skladu s priloženimi pisnimi materiali vsaj devetdeset (90) dni od nakupa in da bo (b) strojna oprema, ki je priložena PROGRAMSKI OPREMI, pri normalni uporabi in vzdrževanju brezhibna vsaj eno (1) leto od nakupa.
+Vse vsebovane garancije za PROGRAMSKO OPREMO in strojno opremo so omejene na devetdeset (90) dni in eno (1) leto. Nekatere države ne dovolijo omejevanja trajanja vsebovanih garancij, zato zgornje doloèilo za vas morda ne velja.
+
+POVRNITVE STRANKI
+BVRP se obvezuje izkljuèno za (po izbiri BVRP) (a) povrnitev nakupne cene ali (b) popravilo ali zamenjavo PROGRAMSKE OPREME ali strojne opreme, ki ne ustreza omejeni garanciji BVRP in ki je bila  podjetju BVRP vrnjena s kopijo raèuna.
+Ta omejena garancija ni veljavna, èe je napaka v PROGRAMSKI OPREMI ali strojni opremi nastala zaradi nesreèe, zlorabe ali napaène uporabe. Zamenjana PROGRAMSKA OPREMA bo pod garancijo do izteka originalne garancijske dobe ali trideset (30) dni, kar traja dlje.
+
+DRUGIH GARANCIJ NE PRIZNAVAMO
+BVRP Software ne priznava drugih garancij, izrecnih ali vsebovanih, vkljuèno z vsebovanimi garancijami o možnosti prodaje in ustreznosti za doloèen namen, ne za PROGRAMSKO OPREMO, ne za priložene tiskane materiale in ne za priloženo strojno opremo.
+Ta omejena garancija vam daje doloèene pravne pravice. Morda imate še druge pravice, v skladu z lokalno zakonodajo.
+
+NISMO ODGOVORNI ZA POSLEDIÈNO ŠKODO
+BVRP ali njegovi dobavitelji v nobenem primeru ne bodo odgovorni za katerokoli škodo (vkljuèno s škodo zaradi izgube dobièka, prekinitve poslovanja, izgube poslovnih informacij ali drugimi gmotnimi škodami), ki je nastala zaradi uporabe ali nezmožnosti uporabe tega izdelka, tudi èe je bil BVRP opozorjen o možnosti takšne škode.
+Ker nekatere države ne dovolijo izloèitve ali omejitve odgovornosti za poslediène ali priložnostne škode, morda zgornje doloèilo za vas ne velja.
+
+US GOVERNMENT RESTRICTED RIGHTS.
+The SOFTWARE and documentation are provided with RESTRICTED RIGHTS. Use, duplication, or disclosure by the Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of The Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs (c)(1) and (2) of the Commercial Computer Software -Restricted Rights at 48 CFR 52.227-19, as applicable.
+Manufacturer is BVRP Software S.A. 1bis, rue Collange 92593 Levallois Perret Cedex France.

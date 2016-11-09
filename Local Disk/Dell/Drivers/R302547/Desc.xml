@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AppDrv>
+<Type>DRV</Type><Cat>OTHER</Cat><Folder></Folder><Desc>Intel Rapid Storage Technology</Desc><LaunchProcess>setup.exe</LaunchProcess><CommandLine>setup.exe</CommandLine><ArchiveLimit>0</ArchiveLimit><ClearContent>N</ClearContent><Version></Version></AppDrv>

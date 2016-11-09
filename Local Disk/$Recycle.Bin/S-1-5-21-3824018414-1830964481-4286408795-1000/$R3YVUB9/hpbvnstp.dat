@@ -1,0 +1,10 @@
+[General]
+Version = 1.0
+RegKey = Software\Hewlett-Packard\PNP\1500
+Execute = ExeSec
+
+[ExeSec]
+FileName = setup.exe
+TagFile = setup.ini
+RunLineKey = HP LJ1500 Install
+2KPassThroughName = hpbvspst.exe

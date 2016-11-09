@@ -1,0 +1,98 @@
+Licensaftale
+
+Denne licensaftale er en aftale mellem slutbrugeren (en enkeltperson, et firma 
+eller en institution) og BVRP Software S.A. (BVRP). Hvis kunden ikke accepterer 
+betingelserne i denne licensaftale, skal kunden straks returnere pakken med 
+disken og evt. tilbehør (inklusive skriftlige materialer, ringbind og andre 
+genstande) til forhandleren og få pengene tilbage.
+
+BVRP SOFTWARE S.A. - SOFTWARELICENS
+1. LICENS.
+Denne BVRP-softwarelicensaftale ("licens") giver kunden ret til at bruge en kopi 
+af den anførte version af ovennævnte softwareprodukt ("SOFTWARE") på en enkelt 
+computer, forudsat at SOFTWAREN kun benyttes på én computer ad gangen.
+Hvis kunden har flere licenser til SOFTWAREN, har kunden ret til at benytte lige 
+så mange softwarekopier, som kunden har licenser.
+SOFTWAREN betragtes som værende "i brug" på en computer, når den er indlæst i 
+computerens arbejdshukommelse (dvs. RAM) eller er installeret på f.eks. 
+harddisken, en CD-ROM eller et andet lagringsmedie, som hører til den pågældende 
+computer. En softwarekopi, der er installeret på en netværksserver, betragtes 
+dog ikke som værende "i brug", hvis den kun benyttes til at distribuere 
+SOFTWAREN til andre computere. 
+Hvis det forventede antal brugere af SOFTWAREN overstiger antallet af licenser, 
+skal kunden sørge for, at antallet af personer, der bruger SOFTWAREN samtidig, 
+på intet tidspunkt overstiger antallet af licenser. 
+Hvis SOFTWAREN er installeret på harddisken eller et andet lagringsmedie på en 
+computer (som ikke er en netværksserver), og én person benytter den pågældende 
+computer i mere end 80% af den tid, som computeren er i brug, har den pågældende 
+person også ret til at bruge SOFTWAREN på en bærbar computer eller en computer i 
+hjemmet.
+
+2. OPHAVSRET.
+SOFTWAREN tilhører BVRP og er beskyttet af amerikanske og internationale 
+bestemmelser om ophavsret. SOFTWAREN skal derfor behandles som alle andre 
+materialer, der er beskyttet af ophavsret (f.eks. bøger og musikoptagelser), 
+bortset fra at kunden har ret til enten at (a) fremstille en sikkerhedskopi af 
+SOFTWAREN eller en kopi til arkivering eller (b) overføre SOFTWAREN til en 
+harddisk, under forudsætning af at originalen udelukkende opbevares som 
+sikkerhedskopi eller som arkiveksemplar.
+Kunden må ikke kopiere de skriftlige materialer, der følger med SOFTWAREN.
+
+3. ANDRE BEGRÆNSNINGER.
+Denne BVRP-licensaftale dokumenterer, at kunden må benytte SOFTWAREN som 
+beskrevet i licensaftalen. Kunden skal derfor opbevare en kopi af licensaftalen. 
+Kunden må ikke udleje eller lease SOFTWAREN, men kunden har ret til at overdrage 
+rettighederne permanent i henhold til denne BVRP-licensaftale, under 
+forudsætning af at kunden overdrager denne licensaftale, SOFTWAREN og alt 
+tilhørende skriftligt materiale, ikke gemmer nogen kopier heraf, og under 
+forudsætning af at modtageren accepterer betingelserne i denne aftale.
+Kunden må ikke konstruktionsmæssigt ændre eller dekompilere SOFTWAREN. Hvis 
+SOFTWAREN er en opdatering, skal en evt. overdragelse omfatte opdateringen samt 
+alle tidligere versioner.
+
+BEGRÆNSET GARANTI.
+BVRP garanterer, at (a) SOFTWAREN fungerer i overensstemmelse med 
+specifikationerne i det medfølgende skriftlige materiale i halvfems (90) dage 
+fra modtagelsen, og at (b) evt. hardware, som følger med SOFTWAREN, er fri for 
+materiale- og produktionsfejl ved normal brug og vedligeholdelse i en periode på 
+et (1) år fra modtagelsen.
+Evt. stiltiende garantier på SOFTWARE og hardware er begrænset til henholdsvis 
+halvfems (90) dage og et (1) år. I visse lande er sådanne begrænsninger af 
+stiltiende garantier ulovlige.
+
+KUNDENS RETSKRAV.
+BVRPs eneste forpligtelse og kundens eneste retskrav er, at BVRP - efter eget 
+skøn - skal (a) refundere købprisen eller (b) reparere eller bytte SOFTWARE 
+eller hardware, som ikke lever op til BVRPs begrænsede garanti, hvis produktet 
+returneres til BVRP sammen med en kopi af kvitteringen.
+Denne begrænsede garanti dækker ikke, hvis fejl ved SOFTWARE eller hardware 
+skyldes hændeligt uheld eller forkert brug. Ved bytning af SOFTWARE er den nye 
+SOFTWARE omfattet af den originale garanti i den resterende periode eller i 
+tredive (30) dage.
+
+INGEN ANDRE GARANTIER.
+BVRP Software yder ingen andre udtrykkelige eller stiltiende garantier, 
+inklusive - men ikke begrænset til - stiltiende garantier for produktet som 
+almindelig god handelsvare og for dets egnethed til bestemte formål, for så vidt 
+angår SOFTWAREN, medfølgende skriftlige materialer og evt. medfølgende hardware.
+Denne begrænsede garanti giver kunden specifikke juridiske rettigheder. Kunden 
+kan evt. have flere rettigheder i henhold til den lokale lovgivning.
+
+INTET ANSVAR FOR EVT. TAB SOM FØLGE AF BRUG AF SOFTWAREN.
+BVRP eller dets underleverandører er under ingen omstændigheder ansvarlig for 
+evt. tab af nogen art (inklusive - men ikke begrænset til - tab af fortjeneste, 
+tab som følge af afbrudt virksomhed, tab af forretningsdata eller andre 
+økonomiske tab), som skyldes brug af dette BVRP-produkt, eller som skyldes, at 
+BRVP-produktet ikke fungerer korrekt, selvom BVRP er blevet underrettet om 
+sådanne tab.
+I visse lande er en sådan ansvarsfraskrivelse for tab, der skyldes brug af 
+produktet, ikke lovlig.
+
+BEGRÆNSEDE RETTIGHEDER FOR AMERIKANSKE OFFENTLIGE MYNDIGHEDER.
+SOFTWARE og dokumentation leveres med BEGRÆNSEDE RETTIGHEDER. Offentlige 
+myndigheders brug, kopiering og offentliggørelse af produktet er underlagt 
+begrænsninger i henhold til stk. (c)(1)(ii) i afsnittet "The Rights in Technical 
+Data and Computer Software" i DFARS 252.227-7013 eller stk. (c)(1) og (2) i 
+afsnittet "Commercial Computer Software - Restricted Rights" i 48 CFR 52.227-19.
+Producent: BVRP Software S.A. 1bis, rue Collange, F-92593 Levallois Perret Cedex 
+Frankrig.

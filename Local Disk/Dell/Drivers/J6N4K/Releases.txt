@@ -1,0 +1,223 @@
+NetWaiting Release notes
+Version 2.5.59
+1. Change the memory calculation in the about box
+
+Version 2.5.55
+1. Added Catalan, Galizier (Galician) and Basque languages to use our spanish translations.
+
+Version 2.5.54
+1. Fixed "Memory Used" numbers in the "About NetWaiting" window.
+
+Version 2.5.53
+1. Vista widgets are no longer minimized.
+
+Version 2.5.52
+1. Fixed installer detection issue.
+
+Version 2.5.51
+1. Fixed help links.
+
+Version 2.5.50
+1. Made specific requested changes to the PTB help file. 
+
+Version 2.5.49
+1. Fixed the PTB help file
+
+Version 2.5.48
+1. Changed language system ID checking to accomidate vista MUI.
+
+Version 2.5.47
+1. Fixed uninstall in vista to shut down the NW program before the uninstall is completed to make sure all files are removed.
+
+Version 2.5.46
+1. Fixed the turkish help file
+
+Version 2.5.45
+1. Added Croatian and Romanian language support.
+
+Version 2.5.44
+1. Fixed multiple language issues
+
+Version 2.5.43
+1. Fixed issue in the confirguration if you change languages and select CHS, CHT, PTG, or PTB english will load.
+
+Version 2.5.42
+1. Fixed two language issues, german label issue and Japanese installer garbage text.
+KNOW ISSUE - In the confirguration if you change languages and select CHS, CHT, PTG, or PTB english will load. This is not a problem on install.
+
+Version 2.5.41
+1. Made adjustments to the certification so it would no longer prompt the user.
+
+Version 2.5.40
+1. Added windows certification to the application.
+2. Fixes the Hebrew and Arabic installs by eliminating the language dialog box at the beginging of the install.
+
+Version 2.5.39
+1. Changed to isntallshield version 12 to become mroe vista compliant.
+
+Version 2.5.38
+1. Changed install sheidl script and how it handles languages that are not supported.
+
+Version 2.5.37
+1. Added About.ini files to each of the language folders. The new system of not having to copy files assumed since there was no aboutn.ini file in the language folder that it was version 1.0
+
+Version 2.5.36
+1.MOHRC.dll was replace for Korean since it had some truncated text
+
+Version 2.5.35
+1. Fixed install sheild script to remove all files on uninstall
+2. Changed language modification so it reads the files directly from the language folder rather then trying to copy them (vista wont allow this copy)
+3. Translated the new line for "Display Icon in Tray Bar" with "Display icon in tray bar while NetWaiting is running"
+4. Fixed Arabic/Hebrew Crash when attempting to use the language change in the settings menu.
+
+version 2.5.34
+1. Change "Do not run in traybar at start" to "Display icon in tray bar"
+2. Also changes the IS script so if you select  "Launch Netwaiting" at the end it enables launching netwaiting on startup
+
+version 2.5.33
+1. Fixed help icon in settings\language
+
+version 2.5.32
+1. Added code to compensate for the SDK not starting
+
+Version 2.5.31
+1. Fixed install shield issue that was prompting for a ctor.dll
+
+Version 2.5.30
+1. Removed help short cut from programs menu and added /show extension to the command line for the netwaiting icon in the programs group. Also if there is no location information implimented into tapi NW will now prompt the user for this information.
+
+Version 2.5.28 (Install Shield)
+1. Changed Text line for CHS uninstall
+
+Version 2.5.27 (DllDef.inf)
+1. Added support for conexants new dll naming scheme
+
+Version 2.5.26 (Aboutn.dll for Hebrew)
+1. Replaced the Hebrew Aboutn.dll to remove extra charecters
+
+Version 2.5.25 (ModemMOH.dll)
+1. Added MUI support. If a user logs in with diffrent language settings NW will detect it and change the language.
+
+Version 2.5.24 (setup.inx)
+1. Swapped the setup.inx file so they install would prompt if you wanted the application to launch
+
+Version 2.5.23
+1. Fixed russian tanslation issue in the isntaller.
+2. Fixed cut off text in russian settings menu.
+
+Version 2.5.22
+1. Corrected Portugese Language.dat issue
+
+Version 2.5.21
+1. Corrected an issue with the language.dat file. The file was not covering all of the languages needed.
+
+Version 2.5.20
+1. Removed Accept all calls as an options, and changed Screen incoming calls to a radio button
+
+Version 2.5.19
+1. Changed 'Ignore all' and 'Accept All' to radio buttons
+2. Removed the option in the install to run netwaiting, the program is now ran automaticaly.
+
+version 2.5.18 (install Shield Script)
+1. Japanese Help button issue fixe
+2. Translated Icon in start Menu
+
+version 2.5.16 (modemmoh.dll)
+1. Fixed "Sceen all incoming calls" to make it a single option in the settings.
+
+Version 2.5.15 (Mohrc.dll)
+1. Fixed translation issues in JPN CHT and CHS
+
+Version 2.5.14 (Install Shield)
+1. Updated install shield with logic for over writing older versions.
+
+Version 2.5.13 (03/01/04) (bvrpctln.dll)
+1. Fixed crash when clicking spash screens link to v.92 website
+2. Made install capable of over writing previous versions temp files
+3. Updated v.92 website.
+
+Version 2.5.12 (11/18/03) ( ModemMOH.dll)
+1. Fixed caller id editor issue with 'P' and 'O'
+2. Fixed CHS translations.
+
+Version 2.5.11(09-11-03) (netwaiting.exe)
+1. Added support for 1 soft modem and 1 hard modem to be used with application
+
+Version 2.5.10 (09-02-03) (modemmoh.dll, netwaiting.exe BVRPdiag.dll, dlldef.ini)
+1. Added Support to select from 2 modems to be used with application
+
+Version 2.5.9 (08-19-03) (setup.inx)
+1. Updated install shield file correcting problem associated with different behavior between XP/2K & ME/98 operating systems, no reboot at end of installation.
+
+Version 2.5.8 (05-23-03) 
+1. Updated help files all languages.
+2. Added custom.ini support to install shield with support of launch at windows startup.
+
+Version 2.5.7 (4-11-03) (updated install shield, HP only release)
+1.  Made update that would allow NetWaiting to load at windows startup by default without running NetWaiting the first time.
+
+
+Version 2.5.6 (03-28-03) (modemmoh.dll, netwaiting.exe BVRPdiag.dll)
+1.  Changed Netwaiting.ini to Netwait.ini.
+
+Version 2.5.5 (03-06-03) (updated modemmoh.dll)
+1.  Correct RUS, NOR, DAN install translation string bugs.
+2.  Fixed HEB license file, bad characters.
+3.  Added netwaiting.ini file to all language folders for easy customization.
+4.  Added aboutn.ini file to all language folders for easy version number changes.
+5.  Added feature of MOH support on v.92 server after rate fallback.
+6.  Fixed on hold timer, specifically with Eclipse.
+7.  Changed v.90 support behavior.  Disconnect with v.90 server support, ignore or disconnect on incoming call.
+8.  Increased amount of time subtracted from on hold timer to stablize reconnect.
+
+Version 2.5.4 A (updated modemmoh.dll)
+1.  Fixed bug under 98SE, ME, and 2K so that NW will launch at windows startup when option selected.
+2.  Fixed address book bug under Japanese, junk characters.
+3.  Added feature to subtract time from on hold timer.  Set to Dell standards.
+4.  Removed Advanced button.
+6.  changed how "do not show" option in splash screen works.
+7.  Changed help file name to meet Dell 8.3 standard.
+8.  Changed version number to include "A" representing generic build.
+
+Version 2.14 (updated moh.exe)
+1.  New process of detecting v.92 or v.90 connection, to correct problem with Serial based external modem and option for outbound calling.
+2.  Added language support for Slovenia.
+
+Version 2.5.3
+1.  Added v.90 server support.
+
+Version 2.07
+1. Added Logging feature
+2. Correct caller ID representation of "O" and "P".  "O" is now "Out of Area" and "P" is "Private".
+
+Version 2.06
+1. Updated Install Shield scripts to display user not admin if trying to uninstall as limited user
+2. Localized Install Shield scripts.
+3. Replaced Czech DLL to fix "?" characters.
+
+Version 2.05
+1. Updated Install Shield script to state 2.05
+2. Updated About Box DLLs to fix "?" character in double byte languages.
+
+Version 2.04
+1. Updated Help and resource files for additional languages.
+2. Fixed the Chinese about box displaying garbage characters.
+3. Fixed Index pages in Czech, Danish, Dutch, Finnish, German, Greek, Hebrew, Norwegian, Polish, Portuguese & Sweden.
+4. Verified Installing of 2.04 over 1.06 is complete.
+
+
+Version 2.03
+1. Added support for Handset Exclusion circuitry.
+2. Added ACF Advanced Configuration screen.
+3. Added variable in MOH.INI that enables or disables the Advanced ACF config screen.
+4. Added Compaq Ring.wav file
+
+
+
+Version 1.06b
+1. Updated support for Arabic, Greek, Slovak, Turkish, Russian & Hungarian
+2. Fixed Arabic Caller ID display issue
+3. Moved the timer and status display in the main screen.  This fixes some issues where the timer and status would have text cut off in some languages.
+4. Fixed Arabic config screen to line up check boxes.
+5. Fixed Japanese Configuration screen display issue.
+

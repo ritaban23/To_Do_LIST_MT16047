@@ -1,0 +1,8 @@
+Title: Network: Dell Wireless WLAN 1502 Half Mini-Card Driver
+Version    : A00
+OEM name   : Dell
+OEM Version: 9.2.0.225
+Computers  : inspiron: M4040, M5040, N4050, N5040, N5050; Vostro Notebook: 1450, 1540, 1550
+OSes       : Windows 7 32-bit Home Basic,Windows 7 32-bit Home Premium,Windows 7 32-bit Starter,Windows 7 32-bit Ultimate,Windows 7 64-bit Home Basic,Windows 7 64-bit Home Premium,Windows 7 64-bit Professional,Windows 7 64-bit Ultimate
+Languages  : Arabic, Brazilian Portuguese, Chinese-S, Chinese-T, Czech, Danish, Dutch, English, Finnish, French, German, Greek, Hebrew, Hungarian, Italian, Japanese, Korean, Norwegian, Polish, Romanian, Russian, Swedish, Slovenian, Spanish, Slovakian, Thai, Turkish
+Created    : Thursday, August 04, 2011

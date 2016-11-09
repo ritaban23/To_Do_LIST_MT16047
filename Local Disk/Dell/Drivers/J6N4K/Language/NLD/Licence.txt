@@ -1,0 +1,40 @@
+Licentie
+
+Dit is een afzonderlijke overeenkomst tussen u (persoon of entiteit), de eindgebruiker, en BVRP Software S.A. (BVRP). Als u niet instemt met de voorwaarden, dient u het schijvenpakket plus toebehoren (inclusief beschrijvingen, mappen en verpakkingen) onverwijld terug te bezorgen bij de verstrekker tegen volledige restitutie.
+
+BVRP SOFTWARE S.A. SOFTWARE-LICENTIE
+1.LICENTIEVERLENING.
+Deze licentieovereenkomst met BVRP Software ("licentie") geeft u recht op gebruik van een exemplaar van het bovengenoemde software-product ("SOFTWARE") op een enkele computer, mits de SOFTWARE slechts op één computer tegelijk wordt gebruikt.
+Als u meerdere licenties bezit, mogen slechts evenveel exemplaren van de SOFTWARE tegelijk worden gebruikt als het aantal licenties.
+De SOFTWARE is "in gebruik" als deze op een computer in tijdelijk geheugen (RAM) is geladen of op permanent geheugen is geïnstalleerd (harde schijf, CD-ROM of dergelijke).
+Wanneer een exemplaar alleen voor het distribueren over andere computers is geïnstalleerd op een netwerk-server, is de SOFTWARE niet "in gebruik."
+Dreigt het aantal gebruikers van de SOFTWARE het aantal licenties te overschrijden, dan dient door middel van een mechanisme of procedure te worden voorkomen dat het aantal gebruikers het aantal licenties overschrijdt.
+Als de SOFTWARE permanent op harde schijf of ander opslagmedium van een computer (geen netwerk-server) is geïnstalleerd en een persoon werkt meer dan 80% van de gebruikstijd met die computer, mag deze persoon de SOFTWARE ook op een draagbare of home-computer gebruiken.
+
+2. AUTEURSRECHT.
+De SOFTWARE is eigendom van BVRP en is beschermd door auteurswetten van de Verenigde Staten en door andere internationale verdragen. U dient de SOFTWARE te behandelen als alle andere aldus beschermde materialen (zoals boeken en muziekopnames), zij het dat u (a) u een kopie mag maken van de SOFTWARE voor archivering of (b) de SOFTWARE mag installeren op een harde schijf en het origineel mag bewaren voor archivering.
+De overige bij de SOFTWARE geleverde beschrijvingen mag u niet kopiëren.
+
+3.OVERIGE BEPERKINGEN.
+Deze licentie dient u in bezit te houden; zij vormt het bewijs dat u de hierin toegekende rechten hebt verkregen. U mag de SOFTWARE niet uitlenen of verhuren, wel mag u uw rechten onder deze licentie op permanente basis overdragen, mits u deze licentie, de SOFTWARE en alle bijbehorende materialen overdraagt, geen kopieën achterhoudt en mits de ontvanger instemt met de voorwaarden van deze overeenkomst.
+U mag de SOFTWARE niet terugbouwen, decompileren of disassembleren. Als de SOFTWARE een uitbreiding is, moeten alle vorige versies mede worden overgedragen.
+
+BEPERKTE GARANTIE
+BVRP garandeert dat (a) de SOFTWARE in hoofdzaak functioneert overeenkomstig de bijbehorende beschrijvingen gedurende een periode van negentig (90) dagen na de ontvangstdatum; en (b) dat de bij de SOFTWARE geleverde hardware geen defecten vertoont aangaande materiaal en vakmanschap bij normaal gebruik en onderhoud gedurende een periode van één (1) jaar na de ontvangstdatum.
+Impliciete garanties op de SOFTWARE en de hardware zijn beperkt tot respectievelijk negentig (90) dagen en één (1) jaar. Deze beperking van de impliciete garantie is niet van toepassing in landen waar zulks niet is toegestaan.
+
+VERHAALSMOGELIJKHEDEN VAN KLANTEN.
+De gehele aansprakelijkheid van BVRP en uw enige verhaalsmogelijkheid is, ter keuze van BVRP, (a) restitutie van de aankoopprijs of (b) reparatie of vervanging van de SOFTWARE of hardware die niet voldoet aan de beperkte garantie van BVRP en aan BVRP is geretourneerd met een kopie van de aankoopbon.
+Deze beperkte garantie geldt niet als het defect gevolg is van ongeval, misbruik of onjuist gebruik. Voor vervangende SOFTWARE wordt garantie verleend voor de resterende tijd van de oorspronkelijke termijn of, indien dat langer is, dertig (30) dagen.
+
+GEEN ANDERE GARANTIES.
+BVRP Software verleent geen andere garantie, expliciet noch impliciet, inbegrepen maar niet beperkt tot impliciete garanties betreffende verkoopbaarheid en geschiktheid voor  een bepaald doel, aangaande de SOFTWARE, de daarbij behorende beschrijvingen en de hardware.
+Deze beperkte garantie geeft u specifieke rechten. Eventuele andere rechten lopen van land tot land uiteen.
+
+GEEN AANSPRAKELIJKHEID VOOR GEVOLGSCHADE.
+In geen geval zal BVRP of haar leveranciers aansprakelijk zijn voor enigerlei schade (waaronder, maar niet beperkt tot, schade door winstderving, bedrijfsonderbreking, verlies van bedrijfsinformatie of ander geldelijk verlies) ontstaan door gebruik van of defect aan dit product van BVRP, zelfs als BVRP op de mogelijkheid daartoe gewezen is.
+Deze bepaling is niet van toepassing in landen waar uitsluiting van gevolgschade niet is toegestaan.
+
+US GOVERNMENT RESTRICTED RIGHTS. 
+The SOFTWARE and documentation are provided with RESTRICTED RIGHTS. Use, duplication, or disclosure by the Government is subject to restrictions as set forth in subparagraph (c)(1)(ii) of The Rights in Technical Data and Computer Software clause at DFARS 252.227-7013 or subparagraphs (c)(1) and (2) of the Commercial Computer Software -Restricted Rights at 48 CFR 52.227-19, as applicable.
+Manufacturer is BVRP Software S.A. 1bis, rue Collange 92593 Levallois Perret Cedex France.

@@ -1,0 +1,37 @@
+PROGRAMLISENS FRA BVRP SOFTWARE S.A.
+
+1.LISENSYTELSE.
+Denne lisensavtalen fra BVRP ("lisens") gir deg tillatelse til å bruke ett eksemplar av den spesifiserte versjonen av det ovenfor nevnte programvareproduktet  ("PROGRAMVAREN") på én enkelt datamaskin.
+Det forutsettes at PROGRAMVAREN til enhver tid bare brukes på én datamaskin.
+Har du flere lisenser for PROGRAMVAREN, kan du ha like mange kopier av PROGRAMVAREN som du har lisenser.
+PROGRAMVAREN er  "i bruk" på en datamaskin når den er lastet  inn i direkteminnet  (RAM)  eller installert i et permanent  lager (f.eks. harddisk, CD ROM eller et annet lagringsmedium) på denne datamaskinen. En kopi som er installert på en nettverksserver utelukkende med sikte på distribusjon til andre datamaskiner er imidlertid ikke "i bruk".
+Dersom det beregnede antallet PROGRAMVARE-brukere vil overstige antallet gyldige lisenser, må du ha en rimelig effektiv mekanisme eller prosedyre som sikrer at antallet personer som bruker PROGRAMVAREN samtidig, ikke overstiger antallet lisenser.
+Dersom PROGRAMVAREN er installert på harddisken eller en annen av datamaskinens lagringsenheter (bortsett fra en nettverksserver) og en person benytter denne datamaskinen mer enn 80% av dens totale driftstid, kan vedkommende også  bruke PROGRAMVAREN på en bærbar datamaskin eller en privat PC.
+
+2.COPYRIGHT.
+PROGRAMVAREN eies av BVRP og er beskyttet av lov om åndsverk m.v. og av internasjonale avtaler. Derfor må du behandle PROGRAMVAREN som et hvilket som helst materiale som er underlagt copyright (f.eks. bøker eller musikkopptak). Imidlertid har du rett til å (a) lage en kopi for back-up eller arkivering, eller  (b) overføre PROGRAMVAREN til én enkelt harddisk, forutsatt at  du bruker originalen utelukkende til sikkerhetskopiering og arkivering.
+Du har ikke lov til å kopiere noe av det trykte materialet som følger med PROGRAMVAREN.
+
+3.ANDRE BEGRENSNINGER.
+Denne lisensavtalen fra BVRP er ditt lisensbevis, som  du må ta vare på. Du har ikke lov til å leie ut PROGRAMVAREN, men du kan overføre dine rettigheter i henhold til denne lisensavtalen på permanent basis. Forutsetning for dette er at du gir fra deg denne lisensavtalen, PROGRAMVAREN og alt tilhørende trykt materiale, ikke beholder noen kopier, og at mottakeren er inneforstått med betingelsene i denne avtalen.
+Du har ikke lov til å drive omvendt engineering på PROGRAMVAREN, dekompilere eller demontere den. Dersom PROGRAMVAREN  er en oppdatering, må enhver overføring innbefatte alle tidligere versjoner.
+
+BEGRENSET GARANTI
+BVRP garanterer at (a) PROGRAMVAREN i alt vesentlig vil fungere i overensstemmelse med den medfølgende skriftlige dokumentasjonen i en periode på nitti (90) dager fra innkjøpsdatoen; og (b) at all maskinvare som følger med PROGRAMVAREN er fri for defekter med hensyn til materiale og utførelse ved vanlig bruk og vedlikehold i en periode på ett (1) år fra innkjøpsdatoen.
+Enhver implisitt garanti angående PROGRAMVAREN og maskinvaren er henholdsvis begrenset til nitti (90) dager og ett (1) år. Enkelte stater godtar ikke begrensninger i varigheten av implisitt garanti, og det er derfor mulig at ovennevnte begrensninger ikke gjelder i ditt tilfelle.
+
+KUNDENS ERSTATNINGSKRAV.
+BVRP's eneste forpliktelse og ditt eneste mulige erstatningskrav er ett av de to alternativene som er nevnt nedenfor, og som BVRP alene er berettiget til å velge mellom.  Enten (a) refundering av betalt pris, eller  (b) reparasjon eller erstatning av PROGRAMVAREN eller maskinvaren som ikke oppfyller betingelsene i BVRP's begrensede garanti og som returneres til BVRP med kopi av innkjøpsfaktura. Denne begrensede garantien annulleres  dersom det oppstår feil på PROGRAMVAREN eller maskinvaren som følge av uhell, misbruk eller feilaktig bruk.
+Erstattende PROGRAMVARE garanteres for den gjenstående tiden av den opprinnelige garantiperioden eller tretti (30) dager. Den av disse to periodene som gir lengst garantitid gjøres her gjeldende.
+
+INGEN ANDRE GARANTIER.
+BVRP Software utelukker herved enhver annen eksplisitt eller implisitt garanti, inkludert men ikke begrenset til implisitt garanti med hensyn til salgbarhet og egnethet til bestemte formål, når det gjelder PROGRAMVAREN, og dokumentasjonen og maskinvaren som følger med PROGRAMVAREN.
+Denne begrensede garantien gir deg spesielle lovbestemte rettigheter. Det kan være at du har andre rettigheter, som varierer fra stat til stat.
+
+FRASKRIVELSE AV ANSVAR FOR FØLGESKADER.
+Selskapet BVRP eller dets underleverandører skal ikke under noen omstendighet holdes ansvarlig for noen form for skader (inkludert, men ikke begrenset til, tap ved avbrudd i forretningsvirksomhet, tap av forretningsinformasjon,  eller annet økonomisk tap) som skyldes manglende evne til å bruke dette BVRP- produktet, selv om BVRP er blitt informert om muligheten av slikt tap.
+Enkelte stater godkjenner ikke ansvarsbegrensning ved følgeskader, og det kan derfor være at  ovennevnte forbehold ikke gjelder i ditt tilfelle.
+
+BEGRENSEDE RETTIGHETER FOR DEN AMERIKANSKE REGJERING.
+Denne PROGRAMVAREN og dokumentasjonen er underlagt BEGRENSEDE RETTIGHETER. Bruk, kopiering eller offentliggjøring fra Regjeringens side er underlagt restriksjonene som er fastlagt i avsnitt (c)(1)(ii) i klausulen The Rights in Technical Data and Computer Software  DFARS 252.227-7013 eller avsnitt (c)(1) og (2) i Commercial Computer Software -Restricted Rights,  48 CFR 52.227-19, alt etter hva som her gjelder.
+Fabrikant er BVRP Software S.A. 1bis, rue Collange, F -  92593 Levallois Perret Cedex, Frankrike.
